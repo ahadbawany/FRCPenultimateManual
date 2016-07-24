@@ -1,10 +1,7 @@
-Team 1257 - All Divisions
-
-General Use Approved
-
 FRC Penultimate Manual
 
 2016
+
 
 Table of Contents
 
@@ -17,7 +14,7 @@ Table of Contents
 
 * Keep a cool head at all times.
 
-* It doesn’t hurt to help another team,** ever**. They love FRC just as much as you do!
+* It doesn’t hurt to help another team, **ever**. They love FRC just as much as you do!
 
 * Sit down once a match begins / after your team is selected for an alliance.
 
@@ -25,7 +22,7 @@ Table of Contents
 
 * Read the RULES!  You never know when you’ll be doing someone else’s job.
 
-* Mentors and captains are there to help **everyone **on your team, not just you. They’re also really nice.
+* Mentors and captains are there to help **everyone** on your team, not just you. They’re also really nice.
 
 * Talk to other subteams, your visions may not align, or may be shared! Communication amongst team members is equally as important as comms between the DS & the ROBOT. *Collaborate!*
 
@@ -46,9 +43,7 @@ Table of Contents
 * * *
 
 
-*Train the way you fight. Because you will fight the way you have been trained.*
-
-* - Sun Tzu*
+*Train the way you fight. Because you will fight the way you have been trained - Sun Tzu*
 
 * * *
 
