@@ -85,7 +85,7 @@ Table of Contents
 
 * Make good friends out of your teammates, and the dynamic that produces an amazing team is soon to follow.
 
-* Reference: [Roles of Team Captain](#bookmark=id.2p9gj9blcv9u)
+* Reference: [Roles of Team Captain](#roles-of-team-captain)
 
 ## Electronics
 
@@ -126,7 +126,7 @@ Table of Contents
     * Try to test it a practice field if possible
 
 * Use WPILib & Screensteps if starting off, and ask your fellow programmers for help!
-	[ScreenStepsLive - WPILib](#bookmark=id.p2jwplfd3mru)
+	[ScreenStepsLive - WPILib](#screenstepslive-wpilib)
 
 * Pick a programming language that works for your team.  You don’t have to work on the language everyone else is using, but use what you know, and can support.
 
@@ -140,7 +140,7 @@ Table of Contents
 
 * Communication between members of drive is *essential*.  Don’t be afraid to talk to one another!
 
-* Reference: [254’s Guide](#bookmark=id.haqmk56nzwzy)
+* Reference: [254’s Guide](#keys-to-a-successful-drive-team-254-and-travis-covington)
 
 ## Strategy
 
@@ -312,7 +312,7 @@ Table of Contents
 
 * If you don’t have a business plan, make one. It’s not only a step closer to Chairman’s, but also a philosophy to keep the team running.  It makes money easier to get, and sponsors more likely to stick around.
 
-    * [Writing A Business Plan](#bookmark=id.pdm3vnfb26ob)
+    * [Writing A Business Plan](#writing-a-business-plan)
 
     * Business plans shouldn’t just cover the financial details of the team, they should be a guiding document for all team operations and organization.
 
@@ -649,7 +649,7 @@ Certain tools throughout a build season are both essential and easy to lose.  A 
 * * *
 
 
-## Keys To a Successful Drive Team (254 & Travis Covington)
+## Keys To a Successful Drive Team (254 and Travis Covington)
 
 [https://frcdesigns.com/2016/01/08/keys-to-a-successful-drive-team-an-interview-with-travis-covington/](https://frcdesigns.com/2016/01/08/keys-to-a-successful-drive-team-an-interview-with-travis-covington/)
 
