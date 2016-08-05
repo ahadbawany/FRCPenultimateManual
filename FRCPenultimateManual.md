@@ -15,7 +15,6 @@ Table of Contents
 * Keep a cool head at all times.
 
 * It doesn’t hurt to help another team, **ever**. They love FRC just as much as you do!
-
 * Sit down once a match begins / after your team is selected for an alliance.
 
 * NEVER talk badly about another team.  They know their own mistakes as well as your own team knows theirs.
@@ -738,7 +737,7 @@ Excerpts:
 
 11. Retired mentors make great mentors. They have more free time, and a lifetime of experience.
 
-## ScreenStepsLive - WPILib
+## ScreenStepsLive WPILib
 
 ScreenStepsLive is an invaluable tool for programmers who need to work on the robot code.  They have examples in C++, Java and MatLab, though the concepts of PID tuning (among other things) are uniform to FRC regardless of the programming language due to the inherent nature of the RoboRIO.
 
