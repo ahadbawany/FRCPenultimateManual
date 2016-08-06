@@ -440,6 +440,9 @@ Table of Contents
 
 * Try to break up your responsibilties, that way if the team gains another mentor with specialization, it helps you more.
 
+* All subteams are not created equal in the eyes of your students.  Be aware of this and *never* treat working on a specific subteam (especially scouting) like a chore.  If anything, you can increase burnout and lose students quickly.  
+    * [This thread](https://www.chiefdelphi.com/forums/showthread.php?threadid=149825) is a HIGHLY reccomended read.
+
 * * *
 
 
