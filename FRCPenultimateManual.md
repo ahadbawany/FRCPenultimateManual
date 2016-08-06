@@ -661,31 +661,31 @@ Certain tools throughout a build season are both essential and easy to lose.  A 
 
 Excerpts:
 
-"**What do tryouts for drivers look like on 254?**"
+* *"What do tryouts for drivers look like on 254?"*
 
-*TC: We try to bring up new drivers early and retain them for as long as possible.  We feel that the driver can be one of the most important roles on the team, and requires some skills that need to be taught and that can be honed with time/practice.  The more experience once trained initially, the better.  Many of our best drivers started as Freshman/Sophomores and drove for 3+ years."*
+TC: We try to bring up new drivers early and retain them for as long as possible.  We feel that the driver can be one of the most important roles on the team, and requires some skills that need to be taught and that can be honed with time/practice.  The more experience once trained initially, the better.  Many of our best drivers started as Freshman/Sophomores and drove for 3+ years."
 
-* **_"What factors into your decisions on drivers?_**"
+* *"What factors into your decisions on drivers?"*
 
-*TC: Many things, least of which is actual skill driving the robot.  We have a large list of criteria which we send to the whole team prior to tryouts or selection.  It is a prioritized list, from most important qualities to least important.  At the top of the list is Maturity.  The "Driver Qualities" list is as follows: *
+TC: Many things, least of which is actual skill driving the robot.  We have a large list of criteria which we send to the whole team prior to tryouts or selection.  It is a prioritized list, from most important qualities to least important.  At the top of the list is Maturity.  The "Driver Qualities" list is as follows: *
 
-* *Mature*
+* Mature
 
-* *Communicative*
+* Communicative
 
-* *Respectful [and] Cooperative*
+* Respectful [and] Cooperative
 
-* *Humble & Accommodating*
+* Humble & Accommodating
 
-* *Dedicated & Hardworking*
+* Dedicated & Hardworking
 
-* *Experienced*
+* Experienced
 
-* *Skilled & Assertive*
+* Skilled & Assertive
 
-* *Knowledgeable in Mechanical, Electrical & Controls aspects of the robot*
+* Knowledgeable in Mechanical, Electrical & Controls aspects of the robot
 
-*As you can see, knowledge of the robot is not a huge concern.  Many of the things above cannot be taught and are harder to find.  We also have attendance and GPA requirements of our drivers.  These bullet points are explained on our selection criteria document but are summarized here for simplicity."*
+* As you can see, knowledge of the robot is not a huge concern.  Many of the things above cannot be taught and are harder to find.  We also have attendance and GPA requirements of our drivers.  These bullet points are explained on our selection criteria document but are summarized here for simplicity."
 
 ## RobotPy - Anatomy of a Robot
 
@@ -758,6 +758,8 @@ ScreenStepsLive is an invaluable tool for programmers who need to work on the ro
 ## QDriverStation
 
 QDriverStation is an open-source implementation of the driver station that runs on Linux, Windows and macOS.  Supports virtual joysticks, and quite a few driver-station protocols.  Not allowed for official competition, but okay for demos & offseasons if they allow it. 
+
+[QDriverStation GitHub](http://github.com/FRC-Utilities/QDriverStation)
 
 ## Advice for Rookie You?
 
