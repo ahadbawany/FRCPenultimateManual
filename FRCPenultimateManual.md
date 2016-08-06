@@ -310,6 +310,8 @@ Table of Contents
 
     * Business plans shouldn’t just cover the financial details of the team, they should be a guiding document for all team operations and organization.
 
+* Budgeting keeps the team afloat.  Know much you *have* to spend per season, regardless of *all* other factors.
+
 ## Safety
 
 * Safety is one of the most important parts of an FRC team.
@@ -338,7 +340,7 @@ Table of Contents
 
 * As a safety captain, familiarize yourself with some of the tools used. That way, you can point out hazards to members and help others.
 
-* *It may not seem like it, but you hold a lot of responsibility for the members and mentors of the team. *
+* *It may not seem like it, but you hold a lot of responsibility for the members and mentors of the team.*
 
     * Their safety may/may not fall back on you in some circumstances.
 
@@ -434,6 +436,10 @@ Table of Contents
 
     * Shoutout to the Field Reset Crew (the recursive FRC!)
 
+* Your actions reflect those of your students in both directions.  You reflect them and they reflect you.  Start off on the right foot and follow any philosophy you preach.  "Do as I say, not as I do" seldom works in this competitive environment.
+
+* Try to break up your responsibilties, that way if the team gains another mentor with specialization, it helps you more.
+
 * * *
 
 
@@ -446,7 +452,7 @@ Table of Contents
 
 No matter the type, scale, or location of event, follow the rules of it to the letter.  Reading the Administration Manual may help, but is rather heavy…  Generally, don’t do anything that could be in any way be construed as cheating / not being GP.  No Wi-Fi access points / hotspots, no being rude to other teams, team mates, drivers, etc.  Respect others pit areas, and above all else, remember that everyone else there loves the competition just as much as you.  Don’t treat them with any less respect than they deserve for it.
 
-* Regular Events
+* Regular District Events
 
     * Bring snacks, prices vary per venue.
 
@@ -553,6 +559,8 @@ No matter the type, scale, or location of event, follow the rules of it to the l
     * A good way to get someone into FRC for the next season.
 
     * Occasionally has pre-rookie teams (registering for the next season next year)
+	
+    * Occasionally just as stressful as a regular event (see "Indiana Robotics Invitational")
 
 * * *
 
@@ -641,7 +649,11 @@ Certain tools throughout a build season are both essential and easy to lose.  A 
     * [http://amzn.com/B00BC39YFQ](http://amzn.com/B00BC39YFQ)
 
 * * *
+## Chairman's Award
 
+* The Chairman's award is awarded to a team that best exemplifies the goals and mission of *FIRST*.  It shouldn't be something you go for because it sounds prestegious, but rather something a team should work for if a majority of their actions both on and off season reflect the *FIRST* mission.  
+
+[Chairman's Resources](http://www.firstinspires.org/node/4876)
 
 ## Keys To a Successful Drive Team (254 and Travis Covington)
 
