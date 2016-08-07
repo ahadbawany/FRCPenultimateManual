@@ -212,6 +212,14 @@ Table of Contents
 
 **Making A Picklist**
 
+* There are three ways an alliance partner can contribute to an alliance:
+
+    * Scoring points (2016 example: scoring goals)
+    
+    * Enabling alliance partners to score points (2016 example: bringing boulders to the courtyard)
+    
+    * Depriving the opposing alliance of points
+
 * Before starting on a picklist, discuss strategies for playoffs. 
 
     * What would your ideal alliance look like?
