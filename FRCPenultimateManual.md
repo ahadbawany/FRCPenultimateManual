@@ -214,15 +214,31 @@ Table of Contents
 
 * There are three ways an alliance partner can contribute to an alliance:
 
-    * Scoring points (2016 example: scoring goals)
+    * Direct offsense: Scoring points (2016 example: scoring goals)
     
-    * Enabling alliance partners to score points (2016 example: bringing boulders to the courtyard)
+    * Indirect offense: Enabling alliance partners to score points (2016 example: bringing boulders to the courtyard)
     
-    * Depriving the opposing alliance of points
+    * Defense: Depriving the opposing alliance of points. Most defense falls into one of two categories:
+    	
+    	* Obstruction defense: physically prevent scoring attempts, by either preventing access to scoring positions or causing shots made to miss, possibly with a wall.
+    	
+    	* Game piece defense: deny opponents access to game pieces or otherwise make it harder for them to obtain them. This can involved picking up game pieces and placing them in a protected zone from the opponent (the secret passageway in 2016) or by providing them for alliance partners to score, which is called feeding (which doubles to help offense).
+    
+    * Always have a contingency plan for defense played against you
 
 * Before starting on a picklist, discuss strategies for playoffs. 
 
-    * What would your ideal alliance look like?
+    * What would the composition of your ideal alliance look like? Your options include:
+    	1. Triple offense (2016 Carver Division, Alliance #2)
+    	2. Two offense and one defense (2016 Tesla Division, Alliance #1)
+    	3. Two offense and one feeder (2016 Hopper Division, Alliance #1)
+    	4. Offense, a feeder, and defense (2016 Waterloo Regional, Alliance #2) 
+    	5. Offense and two feeders/defense (2012 Newton Division, Alliance #2)
+    	* Generally, your choice is between 1, 2, and 3. Deciding between these three options requires examining which will contribute the most to the point margin between yourself and your alliance. Often, a defender can deny their opponents more points than an offense third pick will be able to score. Many times, two offense robots will be more efficient if one robot focuses on feeding game pieces to the other, who scores them, rather than havng both robots acquire and score game pieces themselves.
+    	* Option 4 may make sense if your captain/first pick pair consists of an exceptionally good feeder (fast robot with a fast intake) and an exceptionally high scorer, and the third robot would be able to play better defense than offense. 
+    	* Option 5 is generally unwise, if not downright illegal (as it was illegal to have two opposing robots in a courtyard in 2016). On rare occasions, one robot scoring game pieces outscore an opposing alliance. In the example listed, the #2 alliance on Newton in 2012 employed this strategy because 1717, the captain, was an incredibly fast and accurate scorer. The alliance had the other two robots (469 and 2471) play on the opposite side of the field, acquiring game pieces and shooting them to other side of the field for 1717 to score. 
+
+    * A good guiding question is "how many points would our wekeast robot be able to score, and how does that compare to how many points they can take from our opponent?"
 
     * What other strategies might your alliance have to face?
 
@@ -243,12 +259,6 @@ Table of Contents
 * As additional matches are played after your list is assembled, move teams up and down as needed. Some teams shine on their second day. Others robots break. Keep scouting, and observe upward and downward trends. If robots are having issues, reach out to the teams and find out how fixable they are. A strong robot may be available later than they should be because other scouts were concerned with issues that you know can be resolved. On the other hand, a robot on the rise may be passed over due to their weaker previous showing.
 
 * NEVER leave a robot off your pick list because they "won’t be available by the time you pick". *You never know*
-
-* Choose carefully between a triple offense and a two-offense/one-defender strategy. Having a defender creates a scoring disadvantage, but a triple-offense alliance can often be defeated by an alliance with a strong defender.
-
-    * A good guiding question is "how many points can our wekeast robot score, and how does that compare to how many points they can take from our opponent?"
-
-    * Always have a contingency plan for defense played against you
 
 **Alliance Selection**
 
