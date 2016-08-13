@@ -1,7 +1,3 @@
-FRC Penultimate Manual
-
-2016
-
 
 # Team Divisions
 
