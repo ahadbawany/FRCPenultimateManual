@@ -176,7 +176,7 @@
 
     * You may also have a "super-scout" or two watching the match as a whole for higher level strategy, defense, driver skill, or anything else of note
 
-* Look for what do teams do...
+* Look for what good teams do...
 
     * Quantitatively? In other words, how much do they complete various scoring objectives?
 
