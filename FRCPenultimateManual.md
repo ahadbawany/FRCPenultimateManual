@@ -90,7 +90,7 @@
 
 ## Build
 
-* Strategy should happen before design and design should happen before fabrication
+* Strategy should happen before design and design should happen before fabrication.
 
     * Not that strategy can never be re-evaluated during design or design can be revised during fabrication
 
@@ -115,7 +115,7 @@
 * Use WPILib & Screensteps if starting off, and ask your fellow programmers for help!
 	[ScreenStepsLive - WPILib](#screenstepslive-wpilib)
 
-* Pick a programming language that works for your team.  You don’t have to work on the language everyone else is using, but use what you know, and can support.
+* Pick a programming language that works for your team.  You don’t have to work on the language other teams are using, but use what your team knows, and can support.
 
 ## Drive
 
@@ -124,7 +124,7 @@
 * The actions of the human player can greatly determine the outcome of a game.
     * Human players are generally responsible for moving game pieces. A skilled human player can help their alliance control game pieces to maximize scoring and sometimes reduce opponent scoring.
     
-    * Drivers that might fight amongst themselves can have their attention split between the field and their fighting, resulting in mistakes being made.  
+    * Drivers that might fight amongst themselves can have their attention split between the field and their fighting, resulting in mistakes being made.
 
 * Communication between members of drive is *essential*.  Don’t be afraid to talk to one another!
 
@@ -174,7 +174,7 @@
 
 * Have one scout dedicated to each robot in the match, recording quantitative data and comments
 
-    * You may also have a "super-scout" or two watching the match as a whole for higher level strategy, defense, driver skill, or anything else of note
+    * You may also have a "super-scout" or two watching the match as a whole for higher level strategy, defense, driver skill, or anything else of note.
 
 * Look for what good teams do...
 
@@ -186,11 +186,11 @@
 
 * Important qualitative factors to watch for: 
 
-    * Drive team skill
+    * Drive team skill.
 
     * CONSISTENCY
 
-    * Recovery from driver mistakes and robot failures 
+    * Recovery from driver mistakes and robot failures.
 
 * When scouting, look for teams’ strengths *and* weaknesses. Both can be used to best them
 
@@ -213,15 +213,15 @@
 * There are three ways an alliance partner can contribute to an alliance:
 
     * Direct offsense: Scoring points (2016 example: scoring goals)
-    
+
     * Indirect offense: Enabling alliance partners to score points (2016 example: bringing boulders to the courtyard)
-    
+
     * Defense: Depriving the opposing alliance of points. Most defense falls into one of two categories:
     	
     	* Obstruction defense: physically prevent scoring attempts, by either preventing access to scoring positions or causing shots made to miss, possibly with a wall.
     	
     	* Game piece defense: deny opponents access to game pieces or otherwise make it harder for them to obtain them. This can involved picking up game pieces and placing them in a protected zone from the opponent (the secret passageway in 2016) or by providing them for alliance partners to score, which is called feeding (which doubles to help offense).
-    
+
     * Always have a contingency plan for defense played against you
 
 * Before starting on a picklist, discuss strategies for playoffs. 
@@ -308,7 +308,7 @@ The most important thing your team can do for business is to keep accurate notes
 
 First and foremost, paper isn't a bad way to keep track of things to begin with.  Though digital has it's advantages, companies you may reach out to often have digital letters and emails fall on dear ears.  Being aware of this going in can help you incredibly.
 
-Notes can be kept on network shares, Google Drive, Dropbox, anything really.  As long as your business team can see all of your documents to make informed decisions, it works.  
+Notes can be kept on network shares, Google Drive, Dropbox, anything really.  As long as your business team can see all of your documents to make informed decisions, it works.
 
 Having a hierarchy of business folk can also be helpful.  For example, having one student write a sponsor note / application and another proofread and approve it can very frequently find mistakes the first student had become blind to.  Rinse and repeat the process as needed, as more and more smaller, but important mistakes can crop up.
 
@@ -339,7 +339,7 @@ However, be aware that all of these come with various coordination efforts that 
 
 As described in Notekeeping Philosophies, getting in contact with sponsors can be a difficult thing to do.  eMails and phone calls often fall on deaf ears and empty inboxes.  For smaller companies, simply walking in the door and asking to show them / give them a synopsis of what your team does, and how they might be the right group or organization to help yours can make a world of difference.  For larger companies, however, having a foot in the door can help incredibly.  For this reason, finding companies that your student's families work for can get an application submitted where their site may say 'We're Not Accepting".
      * Eg: A student comes in and says that their aunt works for Robot Co Building Company, the largest supplier of parts in your state.  You reach out to her through the student, and have your proposal put before their corporate philanthropy department.  They say they'll help you, and even match the family member's donations.
-     
+
 Local businesses may be more willing to help you, especially if relevant or helpful.  For example, if a local Makerspace already spreads STEM and needs to promote youth involvement, FRC is an almost perfect fit for them.  In addition, food outlets may help your team out for fundraisers as part of charitable work.  HOWEVER, be aware that they still have to make money and may not be able to give you food or materials for free, but rather at their cost of raw materials.
 
 **Keeping Sponsors**
@@ -506,7 +506,7 @@ Though traditionally, documents are typically the work of a business or business
 
 * Try to break up your responsibilties, that way if the team gains another mentor with specialization, it helps you more.
 
-* All subteams are not created equal in the eyes of your students.  Be aware of this and *never* treat working on a specific subteam (especially scouting) like a chore.  If anything, you can increase burnout and lose students quickly.  
+* All subteams are not created equal in the eyes of your students.  Be aware of this and *never* treat working on a specific subteam (especially scouting) like a chore.  If anything, you can increase burnout and lose students quickly.
     * [This thread](https://www.chiefdelphi.com/forums/showthread.php?threadid=149825) is a HIGHLY reccomended read.
 
 * * *
@@ -543,7 +543,9 @@ No matter the type, scale, or location of event, follow the rules of it to the l
 
     * Every team is a potential ally, even if they’re against you in the next match. 
 
-    * Get used to songs on loop, it happens more than anyone is comfortable with…
+    *If you're having problems, don't be afraid to ask for help.  Other teams *will* help you out of the kindness of their heart, it's just part of the culture!
+
+    * Get used to songs on loop, it happens more than anyone is comfortable with...
 
     * Get to know the event flow before hand, if at all possible.  Ask another teammate who's been there before.
 
@@ -593,7 +595,7 @@ No matter the type, scale, or location of event, follow the rules of it to the l
 
             * A event shirt can be anywhere between 20 and 100 dollars. 
 
-        * Event Handbooks are INCREDIBLY useful for not just people attending to see robots, but for teams.  
+        * Event Handbooks are INCREDIBLY useful for not just people attending to see robots, but for teams.
 
             * They have pit assignments in the guidebook. 
 
