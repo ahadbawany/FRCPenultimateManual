@@ -958,7 +958,7 @@ Just note that it can also be host to the likes of these:
 
 * Adam Moskowitz, 1257 (Mentor)
 
-* Brian Maher, 1257 (Alumnus Mentor, 2015 President / Strategy Co-Captain), 2791 (Mentor)
+* Brian Maher, 1257 (Alumnus Mentor, 2015 President / Strategy Co-Captain), 2791 (Mentor), "BMSOTM" on Chief Delphi
 
 **More**, for finding a way to keep the madness going.
 
