@@ -1,6 +1,19 @@
 
 # Team Divisions
 
+### A Foreword of Sorts
+
+In it's purest form, FIRST isn't an organization about science, technology, math or engineering.  It's not about the contest, or even Gracious Professionalism.  In it's purest form, FIRST is about people.  FIRST is the way to inspire students and adults, people of all ages to take interest in science and technology.  FIRST inspires people go push themselves farther than they ever have before, if only to find out where the upper limits are.  FIRST stands "For the Inspiration and Recognition of Science and Technology", but can stand on it's own as "FI".  For Inspiration.
+
+Though the 6 weeks of build and two months or so of competition come and go faster than you'd expect, they can be the best, worst, strangest and most memorable times of the year.  Your team is a family, your friends and teachers, your adult mentors and youngest rookies.  The people you laugh with, the people you cry with, and the people you cheer with.  Your team is the people you'd go to war with (and have, in some aspects have.)  Even as you go into life, as prepared as you can be, you cannot and will never forget them.
+
+This manual is a feeble attempt to catalog the strange, explain the obscure, and to train the next generation of innovators and engineers.  To practice what you preach to the extreme, and to hopefully help someone found, run, or maintain a team in any position thereof.
+
+Thank you.
+
+Tim Flynn - KD2KRT
+Mentor (Apparently), Alumni, and FIRST Inspiree
+
 ## Everyone On The Team
 
 * Contribute to the team as much as you can, even though it might be something small.
@@ -33,7 +46,6 @@
 * Don’t take disagreements on robot or team decisions personally. Everyone wants the best for the team, even though there may be disagreements as to what that is.
 
 * * *
-
 
 *Train the way you fight. Because you will fight the way you have been trained - Sun Tzu*
 
@@ -84,7 +96,7 @@
 
     * For example: RSL Brownout
 
-* Make sure you turn your robot is turned on. *This is important*.
+* Make sure you turn your robot is turned on.
 
 * ALWAYS connect to the field at least once before qualification matches start.
 
@@ -766,34 +778,23 @@ TC: Many things, least of which is actual skill driving the robot.  We have a la
 
 ## Apps & Programs
 
-* The Blue Alliance
+* [GitHub](https://github.com)
 
-    * [www.thebluealliance.com](http://www.thebluealliance.com)
+* [The Blue Alliance](http://www.thebluealliance.com)
 
-    * [https://play.google.com/store/apps/details?id=com.thebluealliance.androidclient](https://play.google.com/store/apps/details?id=com.thebluealliance.androidclient)
+* [The Blue Alliance Mobile](https://play.google.com/store/apps/details?id=com.thebluealliance.androidclient)
 
-    * [https://github.com/the-blue-alliance/the-blue-alliance](https://github.com/the-blue-alliance/the-blue-alliance)
+* [The Blue Alliance on GitHub](https://github.com/the-blue-alliance/the-blue-alliance)
 
-* FRC Spyder
+* [FRC Spyder](https://play.google.com/store/apps/details?id=com.dwabtech.frcspyder&hl=en)
 
-    * [https://play.google.com/store/apps/details?id=com.dwabtech.frcspyder&hl=en](https://play.google.com/store/apps/details?id=com.dwabtech.frcspyder&hl=en)
+* [FRC Drive](https://play.google.com/store/apps/details?id=com.aquamorph.frcdrive)
 
-* FRC Drive
+* [Slack](http://www.slack.com)
 
-    * [https://play.google.com/store/apps/details?id=com.aquamorph.frcdrive](https://play.google.com/store/apps/details?id=com.aquamorph.frcdrive)
+* [Trello](https://trello.com/)
 
-* Slack
-
-    * [www.slack.com](http://www.slack.com)
-
-* Trello
-
-    * [https://trello.com/](https://trello.com/)
-
-* Basecamp
-
-    * [https://basecamp.com/](https://basecamp.com/)
-
+* [Basecamp](https://basecamp.com/)
 ## 6054: What We Learned
 
 * [https://www.chiefdelphi.com/forums/showthread.php?p=1591100#post1591100](https://www.chiefdelphi.com/forums/showthread.php?p=1591100#post1591100)
