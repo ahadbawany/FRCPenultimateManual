@@ -244,8 +244,11 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
     	3. Two offense and one feeder (2016 Hopper Division, Alliance #1)
     	4. Offense, a feeder, and defense (2016 Waterloo Regional, Alliance #2) 
     	5. Offense and two feeders/defense (2012 Newton Division, Alliance #2)
+
     	* Generally, your choice is between a, b, and c. Deciding between these three options requires examining which will contribute the most to the point margin between yourself and your alliance. Often, a defender can deny their opponents more points than an offense third pick will be able to score. Many times, two offense robots will be more efficient if one robot focuses on feeding game pieces to the other, who scores them, rather than havng both robots acquire and score game pieces themselves.
+
     	* Option d may make sense if your captain/first pick pair consists of an exceptionally good feeder (fast robot with a fast intake) and an exceptionally high scorer, and the third robot would be able to play better defense than offense. 
+
     	* Option e is generally unwise, if not downright illegal (as it was illegal to have two opposing robots in a courtyard in 2016). However, this does not mean it should never be considered. On rare occasions, one robot scoring game pieces *can* outscore an opposing alliance. In the example listed, the #2 alliance on Newton in 2012 employed this strategy because 1717, the captain, was an incredibly fast and accurate scorer. The alliance had the other two robots (469 and 2471) play on the opposite side of the field, acquiring game pieces and shooting them to other side of the field for 1717 to score. 
 
     * A good guiding question is "how many points would our wekeast robot be able to score, and how does that compare to how many points they can take from our opponent?"
