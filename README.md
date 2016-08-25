@@ -23,7 +23,7 @@ Team Divisions:
 * [Business](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#business)
 * [Safety](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#safety)
 * [Design](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#design)
-* [Outreach]((https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#outreach)
+* [Outreach](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#outreach)
 * [Mentors](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#mentors)
 
 [Competition](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#competition-notes)
