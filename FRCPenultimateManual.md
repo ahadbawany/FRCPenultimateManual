@@ -497,6 +497,56 @@ Regardless of how you or your team decie to go in terms of vision, the most impo
 
 Though traditionally, documents are typically the work of a business or business-like subteam, the way they appear can be a crucial role in how your sponsors view you.  Standardize on a team font, one that's *readable*, that you'll use for all of your letters leaving.  Another thing to consider would be team letterhead and footing.  Many businesses have official stationary for official business, and having such can only improve your reputation as an organization.
 
+## Outreach
+
+Outreach in *FIRST*, and more specifically, in FRC, is the act of demonstrating either your robot, or the goodwill of a team to your community.  It can range in anything from demoing robots at a science fair for the FLL kids, to volunteering at a food bank to support your town.  A fantastic example of outreach as of late would be the [1418 Lego Robotics Camp](https://www.facebook.com/robotics1418/posts/1550101621682144), where they gave kids the opportunity to run that year's FLL game, as well as the chance to drive 1418's 2016 robot.
+
+First and foremost, outreach is something that all teams don't have to do.  However, it is helpful to get new members and go for awards like Rookie All Star and Chairman's.  It may not be *feasible* for a lot of teams to do outreach on a large scale, however.  Knowing where your team lies to begin with is an important line to know of.  The most important thing your team will need for outreach, more than anything else is *people*.  Having people who understand what your goal is, to coherently and publicly speak about and for your team is something you may not have, and conversely may desperately need.
+
+Getting outreach coordinated is a complicated thing, and often requires the head of a [leader](#officers--leadership).  Being able to coherently and efficiently speak about the team reflects better on both you as an individual,and you collectively as a team.  As a result, you may gain (business)[#business] contacts, and potential sponsors, as well as prospective new recruits for your team.
+
+### Small Scale
+
+Outreach on a small scale can be something as simple as just demoing your robot.  With one or two people, you can exhibit your robot in a high-traffic area and show off the robot, pique interest in both STEM *and* your team, and potentially raise some additional funds via a tip jar.
+
+Some idea locations may include:
+
+* Shopping Center
+* STEM Fair / Science Fair
+* School Lunches
+* Town Meetings (via request to your town, of course.)
+* Other Local Events
+
+Example team size: 2 - 25 Members, 1-2 Mentors
+
+One thing to note is, having business cards and media to distribute may accidentally gain your team a sponsorship.  Local business owners out and about may see a group of individuals who know what they're doing, and may be interested in supporting "local students".
+
+### Medium Scale
+
+Outreach on the medium scale can be a rather complicated thing, often requiring a siginificant amount of prior planning.  You can easily raise awareness, also likely helping your team when reaching for the "Model Team" category of awards.
+
+Some examples may include:
+
+* Volunteering as a Team
+* Hosting a FLL / FLL Jr. event.
+* STEM / Science / Summer Camp of some sort.
+
+Example team size: 26-80 Members, 2-8 Mentors
+
+### Large Scale
+
+Few teams exist on this scale, and if they do exist, they have vast amounts of manpower.  They can realistically perform any task they set their minds (and computers) to.
+
+Some examples include:
+
+* Hosting an Onseason Event (303)
+* Hosting an Offseason Event (1923)
+* Founding new FRC teams elsewhere.
+* Founding and hosting FTC teams.
+
+Example team size: 80+ Members, 8+ Mentors
+
+
 ## Mentors
 
 * There’s no such thing as a bad idea, consider everything.
