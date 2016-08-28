@@ -25,7 +25,7 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
 * NEVER talk badly about another team.  They know their own mistakes as well as your own team knows theirs.
 
-* Read the RULES!  You never know when you’ll be doing someone else’s job.
+* Read the RULES!  You never know when you’ll be doing someone else’s job. A thorough knowledge of the rules is ESSENTIAL to many roles on the team - strategy, scouting, even design and build. You don't want to build something that is not competition legal, and scouts need to know if a team is breaking the rules.
 
 * Mentors and captains are there to help **everyone** on your team, not just you. They’re also really nice.
 
@@ -99,6 +99,8 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 * Make sure you turn your robot is turned on.
 
 * ALWAYS connect to the field at least once before qualification matches start.
+
+* One of the best things that you can own is a [Battery Beak](http://www.andymark.com/battery-beak-p/am-batterybeak.htm)
 
 ## Build
 
