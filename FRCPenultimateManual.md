@@ -137,7 +137,7 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
 * The actions of the human player can greatly determine the outcome of a game.
     * Human players are generally responsible for moving game pieces. A skilled human player can help their alliance control game pieces to maximize scoring and sometimes reduce opponent scoring.
-    
+
     * Drivers that might fight amongst themselves can have their attention split between the field and their fighting, resulting in mistakes being made.
 
 * Communication between members of drive is *essential*.  Don’t be afraid to talk to one another!
@@ -166,7 +166,7 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
 **Pre-Scouting**
 
-* At a non-Week 1 event, you will often compete with teams who have already competed elsewhere during the season. Match video from these prior events may be used to *pre-scout* the teams that will be at your event. 
+* At a non-Week 1 event, you will often compete with teams who have already competed elsewhere during the season. Match video from these prior events may be used to *pre-scout* the teams that will be at your event.
 
 * Pre-scouting can be used to train scouts and test the relevance and usability of scouting sheets or electronic scouting systems.
 
@@ -174,7 +174,7 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
 * At District/World Championship events, or even late-season other events, it can save time to prepare a preliminary picklist based on pre-scouting data
 
-    * Do not get too attached to any preliminary picklist. 
+    * Do not get too attached to any preliminary picklist.
 
     * Teams may improve with increased experience playing the game and even develop additional functionality at their later events (e.g. in 2016 when low-goal focused robots successfully implemented shooters mid-season, such as 610)
 
@@ -198,7 +198,7 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
 * Scouting is not just about how many points a team scored, but how that team performed and what sets them apart from other teams.
 
-* Important qualitative factors to watch for: 
+* Important qualitative factors to watch for:
 
     * Drive team skill.
 
@@ -231,33 +231,33 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
     * Indirect offense: Enabling alliance partners to score points (2016 example: bringing boulders to the courtyard)
 
     * Defense: Depriving the opposing alliance of points. Most defense falls into one of two categories:
-    	
-    	* Obstruction defense: physically prevent scoring attempts, by either preventing access to scoring positions or causing shots made to miss, possibly with a wall.
-    	
-    	* Game piece defense: deny opponents access to game pieces or otherwise make it harder for them to obtain them. This can involved picking up game pieces and placing them in a protected zone from the opponent (the secret passageway in 2016) or by providing them for alliance partners to score, which is called feeding (which doubles to help offense).
+
+	* Obstruction defense: physically prevent scoring attempts, by either preventing access to scoring positions or causing shots made to miss, possibly with a wall.
+
+	* Game piece defense: deny opponents access to game pieces or otherwise make it harder for them to obtain them. This can involved picking up game pieces and placing them in a protected zone from the opponent (the secret passageway in 2016) or by providing them for alliance partners to score, which is called feeding (which doubles to help offense).
 
     * Always have a contingency plan for defense played against you
 
-* Before starting on a picklist, discuss strategies for playoffs. 
+* Before starting on a picklist, discuss strategies for playoffs.
 
     * What would the composition of your ideal alliance look like? Your options include:
-    	1. Triple offense (2016 Carver Division, Alliance #2)
-    	2. Two offense and one defense (2016 Tesla Division, Alliance #1)
-    	3. Two offense and one feeder (2016 Hopper Division, Alliance #1)
-    	4. Offense, a feeder, and defense (2016 Waterloo Regional, Alliance #2) 
-    	5. Offense and two feeders/defense (2012 Newton Division, Alliance #2)
+	1. Triple offense (2016 Carver Division, Alliance #2)
+	2. Two offense and one defense (2016 Tesla Division, Alliance #1)
+	3. Two offense and one feeder (2016 Hopper Division, Alliance #1)
+	4. Offense, a feeder, and defense (2016 Waterloo Regional, Alliance #2)
+	5. Offense and two feeders/defense (2012 Newton Division, Alliance #2)
 
-    	* Generally, your choice is between a, b, and c. Deciding between these three options requires examining which will contribute the most to the point margin between yourself and your alliance. Often, a defender can deny their opponents more points than an offense third pick will be able to score. Many times, two offense robots will be more efficient if one robot focuses on feeding game pieces to the other, who scores them, rather than havng both robots acquire and score game pieces themselves.
+	* Generally, your choice is between a, b, and c. Deciding between these three options requires examining which will contribute the most to the point margin between yourself and your alliance. Often, a defender can deny their opponents more points than an offense third pick will be able to score. Many times, two offense robots will be more efficient if one robot focuses on feeding game pieces to the other, who scores them, rather than havng both robots acquire and score game pieces themselves.
 
-    	* Option d may make sense if your captain/first pick pair consists of an exceptionally good feeder (fast robot with a fast intake) and an exceptionally high scorer, and the third robot would be able to play better defense than offense. 
+	* Option d may make sense if your captain/first pick pair consists of an exceptionally good feeder (fast robot with a fast intake) and an exceptionally high scorer, and the third robot would be able to play better defense than offense.
 
-    	* Option e is generally unwise, if not downright illegal (as it was illegal to have two opposing robots in a courtyard in 2016). However, this does not mean it should never be considered. On rare occasions, one robot scoring game pieces *can* outscore an opposing alliance. In the example listed, the #2 alliance on Newton in 2012 employed this strategy because 1717, the captain, was an incredibly fast and accurate scorer. The alliance had the other two robots (469 and 2471) play on the opposite side of the field, acquiring game pieces and shooting them to other side of the field for 1717 to score. 
+	* Option e is generally unwise, if not downright illegal (as it was illegal to have two opposing robots in a courtyard in 2016). However, this does not mean it should never be considered. On rare occasions, one robot scoring game pieces *can* outscore an opposing alliance. In the example listed, the #2 alliance on Newton in 2012 employed this strategy because 1717, the captain, was an incredibly fast and accurate scorer. The alliance had the other two robots (469 and 2471) play on the opposite side of the field, acquiring game pieces and shooting them to other side of the field for 1717 to score.
 
     * A good guiding question is "how many points would our wekeast robot be able to score, and how does that compare to how many points they can take from our opponent?"
 
     * What other strategies might your alliance have to face?
 
-    * What kind of robots will make this alliance a reality? 
+    * What kind of robots will make this alliance a reality?
 
     * What strategy will maximize your chances of winning?
 
@@ -267,7 +267,7 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
     * Don’t simply pick the highest scoring team available, though that is often what maximizes your chance of winning
 
-* If you have ANY chance of finishing in the top fifteen teams, MAKE A PICK LIST (or a few) THE NIGHT BEFORE ALLIANCE SELECTIONS. Have a ranked list of robots you want, or alternatively a separate list for each role you'd want robots for (e.g. shooters, defense, low goal, etc). 
+* If you have ANY chance of finishing in the top fifteen teams, MAKE A PICK LIST (or a few) THE NIGHT BEFORE ALLIANCE SELECTIONS. Have a ranked list of robots you want, or alternatively a separate list for each role you'd want robots for (e.g. shooters, defense, low goal, etc).
 
     * There should be at least as many teams listed as there will be teams in playoffs (CMP, 32 teams; elsewhere, 24). You should be willing to work with absolutely any of them.
 
@@ -285,9 +285,9 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
 * When picking alliances, rather than focusing on your picklist, try picking teams based on what other alliances pick, so you can beat them with the greatest advantage.
 
-* When picking, keep in mind where you are picking from and who you will face. 
+* When picking, keep in mind where you are picking from and who you will face.
 
-    * Keep in mind how deep the field is and the difference in strength between the top picks, middle picks, and late picks. Where the field "drops off" can make or break alliances. 
+    * Keep in mind how deep the field is and the difference in strength between the top picks, middle picks, and late picks. Where the field "drops off" can make or break alliances.
 
     * In general, if you are picking from a high captain spot (1,2,3), go for the best consistent robot for your alliance. A robot that fails can cost you quarterfinal or semifinal matches against considerably weaker alliances.
 
@@ -301,7 +301,7 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
     * As you most likely know, when a team declines an invitation during alliance selection, that team cannot accept any other team’s invitation.
 
-    * On a superficial level, being declined may seem embarrassing. However, in order to maximize your chances of success, you must embrace that *declines are part of the game of alliance selection*. 
+    * On a superficial level, being declined may seem embarrassing. However, in order to maximize your chances of success, you must embrace that *declines are part of the game of alliance selection*.
 
     * Declines are primarily motivated by one reason: a team is confident they will be able to select another robot that they deem a better fit for their alliance.
 
@@ -309,11 +309,11 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
         * It may be that there are simply better robots available
 
-    * A valuable tactic that should be in every alliance captain’s toolbox is what is referred to as "scorching the earth". This can be employed when an alliance captain may be considered weaker than the alliance captains ranked below it. This alliance captain can invite other alliance captains to join their alliance *with the knowledge that they will likely decline to form their own alliance*. This is repeated as desired, and if no captains accept, a team from outside the top eight teams is invited, who has to accept in order to play in playoffs. This renders these captains unable to be picked, splitting up strong teams and weakening the other alliances. 
+    * A valuable tactic that should be in every alliance captain’s toolbox is what is referred to as "scorching the earth". This can be employed when an alliance captain may be considered weaker than the alliance captains ranked below it. This alliance captain can invite other alliance captains to join their alliance *with the knowledge that they will likely decline to form their own alliance*. This is repeated as desired, and if no captains accept, a team from outside the top eight teams is invited, who has to accept in order to play in playoffs. This renders these captains unable to be picked, splitting up strong teams and weakening the other alliances.
 
-    * The most well-known example of the scorched-earth tactic is the 2013 Curie Division alliance selection. The #1 seed, 1678, invited the #6 (1717), #4 (2056), #5 (1310), and #7 (359) seeds who *all decline.* 1678 then invited the #16 seed (148), who was forced to accept. As a result, there was *no* inter-picking within the top eight teams. None of the teams who declined 1678 advanced past quarterfinals except 2056, who 1678 defeated in semifinals. While 1678 was able to win the division and advance to Einstein, they did not win in an especially dominant fashion, going to three matches in both semifinals and finals. 
+    * The most well-known example of the scorched-earth tactic is the 2013 Curie Division alliance selection. The #1 seed, 1678, invited the #6 (1717), #4 (2056), #5 (1310), and #7 (359) seeds who *all decline.* 1678 then invited the #16 seed (148), who was forced to accept. As a result, there was *no* inter-picking within the top eight teams. None of the teams who declined 1678 advanced past quarterfinals except 2056, who 1678 defeated in semifinals. While 1678 was able to win the division and advance to Einstein, they did not win in an especially dominant fashion, going to three matches in both semifinals and finals.
 
-    * There is one important catch to scorching the earth: *any team you invite may accept your invitation*. Be ready to work with any team you invite! Do not shoot yourself in the foot by inviting a team you do not want to work with purely to separate them from other teams. 
+    * There is one important catch to scorching the earth: *any team you invite may accept your invitation*. Be ready to work with any team you invite! Do not shoot yourself in the foot by inviting a team you do not want to work with purely to separate them from other teams.
 
 ## Business
 
@@ -367,7 +367,7 @@ The most important thing you can do to keep sponsors is to inform them of what y
 * Follow them on social media with team accounts and send stuff to them detailing your adventures as an FRC team.
 
 The more effectively you keep yourselves in that organization's mind as a forward-thinking and good cause of their funds, you can potentially keep a sponsorship for years.  You may even be able to continue a "foot in the door" sponsorship that was started via a family member of a student, long after they have graduated.
- 
+
 Another very important factor in keeping sponsors is fufilling your contractual obligations.  Often when teams recieve sponsors, they promise the company x benefits.  A robot demonstration, them on the team website & shirt, etc.  Making sure your team fufills these requirements keeps your team in a good light, and also makes them more likely to keep the team as one of the organizations they support.
 
 Finally, treating your sponsors properly, as organizations that support you, and not as "banks with hands" is an incredibly important but often overlooked thing.  They chose to support your team, and didn't *have* to.  In addition, sponsors may be supporting you with materials in kind instead of money, or with skilled mentors.  This is *not* a valueless exchange, and you shouldn't treat it as such.
@@ -429,7 +429,7 @@ Finally, treating your sponsors properly, as organizations that support you, and
 
     * Prescription glasses used in daily life are NOT safety glasses
 
-* Make sure to make clear distinctions between safety at school vs. at the arena 
+* Make sure to make clear distinctions between safety at school vs. at the arena
 
     * 2 different areas, more things to watch out for and rules to follow
 
@@ -453,7 +453,7 @@ Finally, treating your sponsors properly, as organizations that support you, and
 
 * Make a binder for all types of documentation.
 
-    * Have the FRC Safety Manual 
+    * Have the FRC Safety Manual
 
     * Sort out all types of documentation by year or by type of document
 
@@ -555,7 +555,7 @@ Example team size: 80+ Members, 8+ Mentors
 
 * Planning and note-taking can save you, write stuff down!
 
-* Not all other mentors are GP, you must be in the face of all adversary. 
+* Not all other mentors are GP, you must be in the face of all adversary.
 
 * Maintaining a flow of information from year to year is useful.
 
@@ -608,7 +608,7 @@ No matter the type, scale, or location of event, follow the rules of it to the l
 
     * If you don’t know, **ASK! **People like sharing what they know, especially in FIRST.
 
-    * Every team is a potential ally, even if they’re against you in the next match. 
+    * Every team is a potential ally, even if they’re against you in the next match.
 
     *If you're having problems, don't be afraid to ask for help.  Other teams *will* help you out of the kindness of their heart, it's just part of the culture!
 
@@ -660,11 +660,11 @@ No matter the type, scale, or location of event, follow the rules of it to the l
 
         * Merch can be had AT the event, bring spare change.
 
-            * A event shirt can be anywhere between 20 and 100 dollars. 
+            * A event shirt can be anywhere between 20 and 100 dollars.
 
         * Event Handbooks are INCREDIBLY useful for not just people attending to see robots, but for teams.
 
-            * They have pit assignments in the guidebook. 
+            * They have pit assignments in the guidebook.
 
             * They’re free, and usually near entrances.  Get two copies, for when you lose one / give it to a mentor to have / look at.
 
@@ -680,7 +680,7 @@ No matter the type, scale, or location of event, follow the rules of it to the l
 
         * Do your own bag check (if by plane) the day before, so that you can get through lines quickly at the airport.
 
-        * Logistics will eat up most of your time between your DCMP and your CMP.  Plan accordingly.  
+        * Logistics will eat up most of your time between your DCMP and your CMP.  Plan accordingly.
 
         * If you are doing well in district play, start looking at logistics long before DCMP.
 
@@ -697,7 +697,7 @@ No matter the type, scale, or location of event, follow the rules of it to the l
     * A good way to get someone into FRC for the next season.
 
     * Occasionally has pre-rookie teams (registering for the next season next year)
-	
+
     * Occasionally just as stressful as a regular event (see "Indiana Robotics Invitational")
 
 * * *
@@ -766,13 +766,13 @@ Certain tools throughout a build season are both essential and easy to lose.  A 
 
 * Wrench Set (metric & US, though you really should only use one when building a robot.  STANDARDIZE!)
 
-    * Mark your most commonly use wrench off with tape to speed up pit repairs. 
+    * Mark your most commonly use wrench off with tape to speed up pit repairs.
 
     * For example, the 7/16ths wrenches on 1257 were covered with red tape to be found easily.  We have / had about half a dozen of them.
 
 * Wire Cutters
 
-    * A good sharp pair is essential for trimming zip-ties, wires, and a whole load of other things.  If you have a dull pair of cutters, it can stop the whole rhythm of the robot checklist in the pit, which is not a nice thing to have when you may or may not have 
+    * A good sharp pair is essential for trimming zip-ties, wires, and a whole load of other things.  If you have a dull pair of cutters, it can stop the whole rhythm of the robot checklist in the pit, which is not a nice thing to have when you may or may not have
 
     * Many posts on Chief Delphi recommend this pair:
 
@@ -789,7 +789,7 @@ Certain tools throughout a build season are both essential and easy to lose.  A 
 * * *
 ## Chairman's Award
 
-* The Chairman's award is awarded to a team that best exemplifies the goals and mission of *FIRST*.  It shouldn't be something you go for because it sounds prestegious, but rather something a team should work for if a majority of their actions both on and off season reflect the *FIRST* mission.  
+* The Chairman's award is awarded to a team that best exemplifies the goals and mission of *FIRST*.  It shouldn't be something you go for because it sounds prestegious, but rather something a team should work for if a majority of their actions both on and off season reflect the *FIRST* mission.
 
 [Chairman's Resources](http://www.firstinspires.org/node/4876)
 
@@ -884,7 +884,7 @@ ScreenStepsLive is an invaluable tool for programmers who need to work on the ro
 
 ## QDriverStation
 
-QDriverStation is an open-source implementation of the driver station that runs on Linux, Windows and macOS.  Supports virtual joysticks, and quite a few driver-station protocols.  Not allowed for official competition, but okay for demos & offseasons if they allow it. 
+QDriverStation is an open-source implementation of the driver station that runs on Linux, Windows and macOS.  Supports virtual joysticks, and quite a few driver-station protocols.  Not allowed for official competition, but okay for demos & offseasons if they allow it.
 
 [QDriverStation GitHub](http://github.com/FRC-Utilities/QDriverStation)
 
