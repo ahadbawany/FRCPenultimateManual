@@ -23,7 +23,7 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
 The FIRST Robotics Competition (FRC) is the largest of the four FIRST (For Inspiration and Recognition of Science and Technology) Programs, and one of two for high school students. Founded in 1989 by Dean Kamen and Professor Woodie Flowers (see History), it was originally a competitive robotics course for students at MIT. However, it soon grew into much more than a simple robotics program. After nearly 30 years, FRC has evolved from a simple robotics course at MIT to a worldwide robotics competition that involves thousands of high school teams and hundreds of thousands of high school students. These teams and students compete against each other every year in a game that FIRST designs with robots that they design and build themselves to complete the game's challenge.
 
-Teams start building their robots on January 8th each year when the yearly game announcement ('kickoff') happens, and have only 6 weeks to design, build, and test their robot. With a $500 part limit, and numerous constraints, they must build a robot to the best of their ability, and hone their skills as a team and individuals in not only the robotics categories, but also in gracious professionalism, business, communication, collaboration, and the many sub teams that so many teams have.
+Teams start building their robots on January 8th each year when the yearly game announcement ("kickoff") happens, and have only 6 weeks to design, build, and test their robot. With a $500 part limit, and numerous constraints, they must build a robot to the best of their ability, and hone their skills as a team and individuals in not only the robotics categories, but also in gracious professionalism, business, communication, collaboration, and the many sub teams that so many teams have.
 
 Each team may have multiple subteams, but some subteams that are shared by most teams include build, programming, design, marketing, drive, strategy, outreach, and wiring. Each subteam is essential to helping the team succeed, and while teams such as marketing and outreach are not directly involved with building or testing the robot, they are still essential by helping the team gain the money necessary to enter the competition and build the robot, as well as travel to competitions. 
 
@@ -35,9 +35,9 @@ In a District system, however, teams must compete at two District "events", usua
 
 ### History
 
-The FIRST organization was founded in 1989 by Dean Kamen, of DEKA Robotics and Prof. Woodie Flowers of MIT.  Woodie had envisioned and designed a competitive student robotics course for his MIT 2.270 course, but wanted to make it appeal to not only *his* students.  With the help of Dean Kamen, the inaugural game of "Maize Craze" was held in 1992, giving birth to US FIRST, later expanding.
+The FIRST organization was founded in 1989 by Dean Kamen, of DEKA Robotics and Prof. Woodie Flowers of MIT.  Woodie had envisioned and designed a competitive student robotics course for his MIT 2.70 course (later evolving into 2.007), but wanted to make it appeal to not only *his* students.  With the help of Dean Kamen, the inaugural game of "Maize Craze" was held in 1992, giving birth to US FIRST, later expanding into the FIRST family.
 
-In 2006 the pilot program of the FIRST Tech Challenge, in cooperation with Innovation First Intl. (commonly known as VEX Robotics), was created.  The program used the standard VEX kits and offered a lower cost alternative to getting involved in the FIRST ecosystem.
+In 2005 the pilot program of the FIRST Tech Challenge, in cooperation with Innovation First Intl. (commonly known as VEX Robotics), was created.  The program used the standard VEX kits and offered a lower cost alternative to getting involved in the FIRST ecosystem.
 
 Over more time, two more programs for younger students were created, being the FIRST Lego League and the FIRST Lego League Jr.  Together, they form a robotics family of programs capable of following a student from K-12.
 
