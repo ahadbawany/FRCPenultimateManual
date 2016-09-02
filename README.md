@@ -50,6 +50,7 @@ ___
 * [6054 - What We Learned](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#6054-what-we-learned)
 * [Advice For Rookie You?](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#advice-for-rookie-you)
 * [Writing A Business Plan](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#writing-a-business-plan)
+* ["Steal from the best, invent the rest"](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#steal-from-the-best-invent-the-rest)
 * [Roles of A Team Captain](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#roles-of-team-captain)
 
 \#TSMIFD
