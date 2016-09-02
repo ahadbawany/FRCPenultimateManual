@@ -12,6 +12,7 @@ This manual is a feeble attempt to catalog the strange, explain the obscure, and
 Thank you.
 
 Tim Flynn - KD2KRT
+
 Mentor (Apparently), Alumni, and FIRST Inspiree
 
 * * *
