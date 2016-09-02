@@ -41,6 +41,19 @@ In 2005 the pilot program of the FIRST Tech Challenge, in cooperation with Innov
 
 Over more time, two more programs for younger students were created, being the FIRST Lego League and the FIRST Lego League Jr.  Together, they form a robotics family of programs capable of following a student from K-12.
 
+### Who Are Mentors?
+
+In the world of FRC, mentors are individuals who assist a team in some capacity.  Sometimes mentors can be gained via sponsorships, via alumni, and from other sources.  However, mentors are most commonly teachers and the parents of students who have some skills.  
+
+* Ex: Bob and Sally's Dad is a businessman and wants to help the team keep their business in order, as none of the other mentors have business experience.
+
+Some types of mentorship are based on skills, while others are not.  Programming mentors could help a team create a new vision system, or a parent mentor could just make sure that everyone gets to competition in order, taking the stress off of the other mentors.  Often mentors rely on one another as much, if not more, than students rely on one another, as they already have much on their plates (being college students or adults with actual jobs.)
+
+### Who Are Volunteers?
+
+The volunteers are the people who keep the events, and FIRST to a lesser extent running.  Without the hard work of the volunteers, being family members of teams (or entire teams), alumni, businesses with a vested interest in the programs, FRC as we know it could not exist.  They run the field, the pits, the administration, and some of the most crucial parts of our community.  
+* Ex: The Blue Alliance, a community site to view team information, was developed by students turned mentors, and is sponsored by Firebase and IFI.
+
 * * *
 
 ## Everyone On The Team
