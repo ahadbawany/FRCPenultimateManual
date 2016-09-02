@@ -623,7 +623,7 @@ Example team size: 80+ Members, 8+ Mentors
 * * *
 
 
-*Winning a match is not something a robot does, winning is a team effort that requires the cooperation of dozens of individuals. -  **[Andrew Schreiber on Chief Delph*i](https://www.chiefdelphi.com/forums/showthread.php?postid=882672#post882672)
+*Winning a match is not something a robot does, winning is a team effort that requires the cooperation of dozens of individuals.* -  *[Andrew Schreiber on Chief Delphi](https://www.chiefdelphi.com/forums/showthread.php?postid=882672#post882672)*
 
 * * *
 
@@ -985,6 +985,24 @@ Various teams share their business plans during the offseason, and for previous 
 * [https://www.chiefdelphi.com/forums/showthread.php?threadid=148799](https://www.chiefdelphi.com/forums/showthread.php?threadid=148799)
 
 * [http://www.teamneutrino.org/resources/fundraising/](http://www.teamneutrino.org/resources/fundraising/)
+
+##Steal from the best, invent the rest
+
+* Courtesy of Michael Corsetto on Chief Delphi
+
+* [https://www.chiefdelphi.com/forums/showpost.php?p=1517082&postcount=33](https://www.chiefdelphi.com/forums/showpost.php?p=1517082&postcount=33)
+
+*"I'd encourage any/all readers to avoid this "conditioning" approach.*
+
+*If you want to win, steal from the* ***best***, *invent the rest.*
+
+*We (1678) have learned to use aluminum gears, cantilevered shafts, and #25 roller chain. We've learned mostly from Team 254 and VexPRO/WCP. These organizations have, between them, probably 10 of the best 50 mentors in the entire FRC program.*
+
+*The best part is, for any reader out there,* ***even if you are a freshman rookie in high school***, *these mentors are just an email or PM away. Ask 254 WHY they do cantilevered shafts every year and HOW they do it! Ask 1678 WHY we copy 254 and HOW we do it. Ask VexPRO/AM/WCP how to properly implement their products into your designs.*
+
+*These resources are available. They are just an email away. You don't have to do any more guess work. You CAN be a better engineer by working harder and gleaning knowledge from people that have walked further down the path you are already on. Be encouraged that you are not alone, take advantage of the opportunities that are in front of you.*
+
+*Learn from the best so you can BE the best.*"
 
 ## Roles of Team Captain
 

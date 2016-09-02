@@ -1,7 +1,7 @@
 # FRCPenultimateManual
 This manual intends to cover some of the more fine points of FRC, that may not be apparent to the casual viewer, first time student or mentor.
 
-Document worked on by Teams [1257](http://team1257.org), [2791](https://thebluealliance.com/team/2791), [1228](https://thebluealliance.com/team/1228), [4263](https://thebluealliance.com/team/4263), [612](http://chantillyrobotics.org), and [4150](http://thebluealliance.com/team/4150) as well as members of the [FRC Discord Server](https://www.reddit.com/r/FRC/comments/4s0uf4/frc_discord_server_converse_with_fellow_teams/).
+Document worked on by Teams [1257](http://team1257.org), [2791](https://thebluealliance.com/team/2791), [1228](https://thebluealliance.com/team/1228), [4263](https://thebluealliance.com/team/4263), [612](http://chantillyrobotics.org), [4150](http://thebluealliance.com/team/4150), and [5940](http://www.team5940.org/) as well as members of the [FRC Discord Server](https://www.reddit.com/r/FRC/comments/4s0uf4/frc_discord_server_converse_with_fellow_teams/).
 
 To contribute:
 
@@ -50,6 +50,7 @@ ___
 * [6054 - What We Learned](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#6054-what-we-learned)
 * [Advice For Rookie You?](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#advice-for-rookie-you)
 * [Writing A Business Plan](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#writing-a-business-plan)
+* ["Steal from the best, invent the rest"](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#steal-from-the-best-invent-the-rest)
 * [Roles of A Team Captain](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#roles-of-team-captain)
 
 \#TSMIFD
