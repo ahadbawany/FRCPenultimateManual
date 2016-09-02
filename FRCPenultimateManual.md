@@ -3,9 +3,9 @@
 
 ### A Foreword of Sorts
 
-In it's purest form, FIRST isn't an organization about science, technology, math or engineering.  It's not about the contest, or even Gracious Professionalism.  In it's purest form, FIRST is about people.  FIRST is a way to inspire students and adults, people of all ages to take interest in science and technology.  FIRST inspires people go push themselves further than they ever have before, if only to find out where the upper limits are.  FIRST stands "For the Inspiration and Recognition of Science and Technology", but can stand on it's own as "FI":  For Inspiration.
+In it's purest form, FIRST isn't an organization about science, technology, math or engineering.  It's not about the contest, or even Gracious Professionalism.  In it's purest form, FIRST is about people.  FIRST is the way to inspire students and adults, people of all ages to take interest in science and technology.  FIRST inspires people go push themselves farther than they ever have before, if only to find out where the upper limits are.  FIRST stands "For the Inspiration and Recognition of Science and Technology", but can stand on it's own as "FI".  For Inspiration.
 
-Though the 6 weeks of build and two months or so of competition come and go faster than you'd expect, they can be the best, worst, strangest, and most memorable times of the year.  Your team is a family, including your friends and teachers, your adult mentors, and the youngest rookies.  The people you laugh with, the people you cry with, and the people you cheer with.  Your team is the people you'd go to war with (and have, in some aspects, have.)  Even as you go into life as prepared as you can be, you cannot and will not ever forget them.
+Though the 6 weeks of build and two months or so of competition come and go faster than you'd expect, they can be the best, worst, strangest and most memorable times of the year.  Your team is a family, your friends and teachers, your adult mentors and youngest rookies.  The people you laugh with, the people you cry with, and the people you cheer with.  Your team is the people you'd go to war with (and have, in some aspects have.)  Even as you go into life, as prepared as you can be, you cannot and will never forget them.
 
 This manual is a feeble attempt to catalog the strange, explain the obscure, and to train the next generation of innovators and engineers.  To practice what you preach to the extreme, and to hopefully help someone found, run, or maintain a team in any position thereof.
 
@@ -21,21 +21,25 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
 ### Overview
 
-The FIRST Robotics Competition (FRC) is the largest of the four FIRST (For Inspiration and Recognition of Science and Technology) programs, and one of two for high school aged kids.  Every teams starts building their robots at the same time on the same day, January 8th, and each has 6 weeks of unfettered build time to design and fabricate their robot.  Once the competition season has begun, teams are only allowed limited time to work and improve their robot.  With a $500 cost limit for individual parts, and numerous other constraints, they must build a robot to the best of their ability, and hone their skills as a team and individuals in not only the robotics categories, but also in gracious professionalism, business, entrepreneurship, and many other skills that many teams practice as sub-teams.
+The FIRST Robotics Competition (FRC) is the largest of the four FIRST (For Inspiration and Recognition of Science and Technology) Programs, and one of two for high school students. Founded in 1989 by Dean Kamen and Professor Woodie Flowers (see History), it was originally a competitive robotics course for students at MIT. However, it soon grew into much more than a simple robotics program. After nearly 30 years, FRC has evolved from a simple robotics course at MIT to a worldwide robotics competition that involves thousands of high school teams and hundreds of thousands of high school students. These teams and students compete against each other every year in a game that FIRST designs with robots that they design and build themselves to complete the game's challenge.
+
+Teams start building their robots on January 8th each year when the yearly game announcement ('kickoff') happens, and have only 6 weeks to design, build, and test their robot. With a $500 part limit, and numerous constraints, they must build a robot to the best of their ability, and hone their skills as a team and individuals in not only the robotics categories, but also in gracious professionalism, business, communication, collaboration, and the many sub teams that so many teams have.
+
+Each team may have multiple subteams, but some subteams that are shared by most teams include build, programming, design, marketing, drive, strategy, outreach, and wiring. Each subteam is essential to helping the team succeed, and while teams such as marketing and outreach are not directly involved with building or testing the robot, they are still essential by helping the team gain the money necessary to enter the competition and build the robot, as well as travel to competitions. 
 
 ### Regionals vs Districts
 
-At the end of a Build Season, teams, depending on their geographic location either compete in the District system or the Regional system.  Regionals are larger events varying between 60 and 90 teams, often from a much larger geographic area.  Their venue is usually larger in scale, and teams can qualify for World Championships right off the bat at their regional events.
+At the end of a Build Season, teams, depending on their location, either compete in a District system or a Regional system.  Regionals are larger events varying between 60 and 90 teams, often from a large area.  Their venue is usually larger in scale, and can qualify them for World Championships right off the bat at their regional events.
 
-In a District system, however, teams must compete at two District "events", usually comprising of approximately 50-60 teams and 90 matches to earn "District Points".  Following the performance at their District events, they may qualify for a District Championship.  At the end of a District Championship, qualifications for World Championships are handed out based on points and awards such as Hall of Fame, Rookie All-Star, Chairman's, and other factors.
+In a District system, however, teams must compete at two District "events", usually comprising of approximately 60 teams and 90 matches to earn "District Points".  Following the performance at their District events, they may qualify for a District Championship.  At the end of a District Championship, qualifications for World Championships are handed out based on points, Hall of Fame, Rookie All-Star, Chairmans Award, and other factors.
 
 ### History
 
-The FIRST organization was founded in 1989 by Dean Kamen, of DEKA Robotics and Prof. Woodie Flowers of MIT.  Woodie had envisioned and designed a competitive student robotics course for his MIT 2.70 course (later becoming 2.007), but wanted to make it appeal to not only *his* students.  With the help of Dean Kamen, the inaugural game of "Maize Craze" was held in 1992, giving birth to US FIRST, later expanding.
+The FIRST organization was founded in 1989 by Dean Kamen, of DEKA Robotics and Prof. Woodie Flowers of MIT.  Woodie had envisioned and designed a competitive student robotics course for his MIT 2.270 course, but wanted to make it appeal to not only *his* students.  With the help of Dean Kamen, the inaugural game of "Maize Craze" was held in 1992, giving birth to US FIRST, later expanding.
 
-In 2006 the pilot program of the FIRST Tech Challenge, or FTC, in cooperation with Innovation First Intl. (commonly known as VEX Robotics), was created.  The program used the standard VEX kits and offered a lower cost alternative to getting involved in the FIRST ecosystem.
+In 2006 the pilot program of the FIRST Tech Challenge, in cooperation with Innovation First Intl. (commonly known as VEX Robotics), was created.  The program used the standard VEX kits and offered a lower cost alternative to getting involved in the FIRST ecosystem.
 
-Over more time, two more programs for younger students were created, being the FIRST Lego League (FLL) and the FIRST Lego League Jr. (Jr. FLL).  Together, they form a robotics family of programs capable of following a student from K-12.
+Over more time, two more programs for younger students were created, being the FIRST Lego League and the FIRST Lego League Jr.  Together, they form a robotics family of programs capable of following a student from K-12.
 
 * * *
 
