@@ -12,6 +12,11 @@ To contribute:
 Lisense(?) : Share, have fun!  Content is copyright their respective owners.
 
 
+Crash Course in FIRST
+* [Overview](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#overview)
+* [Regionals vs Districts](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#regionals-vs-districts)
+* [History](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#history)
+
 Sections:
 
 Team Divisions:

@@ -14,6 +14,30 @@ Thank you.
 Tim Flynn - KD2KRT
 Mentor (Apparently), Alumni, and FIRST Inspiree
 
+* * *
+
+## Crash Course in FIRST
+
+### Overview
+
+The FIRST Robotics Competition is one of the four FIRST Programs, being the highest tiered.  Teams start building their robots at the same time on the same day being January 8th, and have 6 weeks of unfettered build time to make their robot.  Once the competition season has begun, teams are only allowed limited time to work and improve their robot.  With a $500 part limit, and numerous constraints, they must build a robot to the best of their ability, and hone their skills as a team and individuals in not only the robotics categories, but also in gracious professionalism, business, entrepreneurship, and the many sub teams that so many teams have.
+
+### Regionals vs Districts
+
+At the end of a Build Season, teams, depending on their location, either compete in a District system or a Regional system.  Regionals are larger events varying between 60 and 90 teams, often from a large area.  Their venue is usually larger in scale, and can qualify them for World Championships right off the bat at their regional events.
+
+In a District system, however, teams must compete at two District "events", usually comprising of approximately 60 teams and 90 matches to earn "District Points".  Following the performance at their District events, they may qualify for a District Championship.  At the end of a District Championship, qualifications for World Championships are handed out based on points, Hall of Fame, Rookie All-Star, Chairmans Award, and other factors.
+
+### History
+
+The FIRST organization was founded in 1989 by Dean Kamen, of DEKA Robotics and Prof. Woodie Flowers of MIT.  Woodie had envisioned and designed a competitive student robotics course for his MIT 2.270 course, but wanted to make it appeal to not only *his* students.  With the help of Dean Kamen, the inaugural game of "Maize Craze" was held in 1992, giving birth to US FIRST, later expanding.
+
+In 2006 the pilot program of the FIRST Tech Challenge, in cooperation with Innovation First Intl. (commonly known as VEX Robotics), was created.  The program used the standard VEX kits and offered a lower cost alternative to getting involved in the FIRST ecosystem.
+
+Over more time, two more programs for younger students were created, being the FIRST Lego League and the FIRST Lego League Jr.  Together, they form a robotics family of programs capable of following a student from K-12.
+
+* * *
+
 ## Everyone On The Team
 
 * Contribute to the team as much as you can, even though it might be something small.
@@ -44,6 +68,8 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
     * Don’t lose sight of your future goals and dreams. That being said, putting your entire heart and soul into the team can be a good thing. Just keep consequences in mind.
 
 * Don’t take disagreements on robot or team decisions personally. Everyone wants the best for the team, even though there may be disagreements as to what that is.
+
+
 
 * * *
 
