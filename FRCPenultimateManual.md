@@ -31,7 +31,7 @@ In a District system, however, teams must compete at two District "events", usua
 
 ### History
 
-The FIRST organization was founded in 1989 by Dean Kamen, of DEKA Robotics and Prof. Woodie Flowers of MIT.  Woodie had envisioned and designed a competitive student robotics course for his MIT 2.270 course, but wanted to make it appeal to not only *his* students.  With the help of Dean Kamen, the inaugural game of "Maize Craze" was held in 1992, giving birth to US FIRST, later expanding.
+The FIRST organization was founded in 1989 by Dean Kamen, of DEKA Robotics and Prof. Woodie Flowers of MIT.  Woodie had envisioned and designed a competitive student robotics course for his MIT 2.70 course (later becoming 2.007), but wanted to make it appeal to not only *his* students.  With the help of Dean Kamen, the inaugural game of "Maize Craze" was held in 1992, giving birth to US FIRST, later expanding.
 
 In 2006 the pilot program of the FIRST Tech Challenge, or FTC, in cooperation with Innovation First Intl. (commonly known as VEX Robotics), was created.  The program used the standard VEX kits and offered a lower cost alternative to getting involved in the FIRST ecosystem.
 
