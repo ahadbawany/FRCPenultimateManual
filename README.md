@@ -16,6 +16,8 @@ Crash Course in FIRST
 * [Overview](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#overview)
 * [Regionals vs Districts](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#regionals-vs-districts)
 * [History](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#history)
+* [Who Are Mentors](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#who-are-mentors)
+* [Who Are Volunteers](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#who-are-volunteers)
 
 Sections:
 
