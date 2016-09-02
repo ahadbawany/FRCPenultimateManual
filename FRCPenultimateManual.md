@@ -623,7 +623,7 @@ Example team size: 80+ Members, 8+ Mentors
 * * *
 
 
-*Winning a match is not something a robot does, winning is a team effort that requires the cooperation of dozens of individuals. -  **[Andrew Schreiber on Chief Delph*i](https://www.chiefdelphi.com/forums/showthread.php?postid=882672#post882672)
+*Winning a match is not something a robot does, winning is a team effort that requires the cooperation of dozens of individuals.* -  *[Andrew Schreiber on Chief Delphi](https://www.chiefdelphi.com/forums/showthread.php?postid=882672#post882672)*
 
 * * *
 
