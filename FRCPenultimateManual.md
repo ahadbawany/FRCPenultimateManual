@@ -21,7 +21,7 @@ Mentor (Apparently), Alumni, and FIRST Inspiree
 
 ### Overview
 
-The FIRST Robotics Competition (FRC) is the largest of the four FIRST (For Inspiration and Recognition of Science and Technology) programs, and one of two for high school aged kids.  Every teams starts building their robots at the same time on the same day, January 8th, and each has 6 weeks of unfettered build time to design and fabricate their robot.  Once the competition season has begun, teams are only allowed limited time to work and improve their robot.  With a $500 cost limit for individual parts, and numerous other constraints, they must build a robot to the best of their ability, and hone their skills as a team and individuals in not only the robotics categories, but also in gracious professionalism, business, entrepreneurship, and many other skills that many teams practice as sub-teams.
+The FIRST Robotics Competition (FRC) is the largest of the four FIRST (For Inspiration and Recognition of Science and Technology) programs, and one of two for high school aged kids.  Every teams starts building their robots at the same time, on the first saturday of January, and each has 6 weeks of unfettered build time to design and fabricate their robot.  Once the competition season has begun, teams are only allowed limited time to work and improve their robot.  With a $400 cost limit for individual parts, and numerous other constraints, they must build a robot to the best of their ability, and hone their skills as a team and individuals in not only the robotics categories, but also in gracious professionalism, business, entrepreneurship, and many other skills that many teams practice as sub-teams.
 
 ### Regionals vs Districts
 
