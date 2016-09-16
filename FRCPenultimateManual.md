@@ -427,51 +427,59 @@ Finally, treating your sponsors properly, as organizations that support you, and
 
 ## Safety
 
-* Safety is one of the most important parts of an FRC team.
+One of the most important things a FRC team can do is be safe, both on and off the field.  However, "Safety Captain" is often seen as a useless job, as is it a thankless one.  However, there are some things you may want to do to boost safety on your team, both over time, and immediately.
 
-    * Make sure people recognize that and not take it as a joke.
+Make sure people recognize that and not take it as a joke.  The safety of the students on the team is one of, if not *the* most important things a team needs to strive for.  You can't put a robot on the field if your build team is in the hospital because of accidents.
 
-    * It is* just* as important as build or electronics or other subteams.
+Due to the incredibly-specific nature of *FIRST* Robotics Safety, this section will focus on a set of suggestions as to what makes a team safe, as well as what may be considered a "Road" to the Safety Award.
 
-* Improvement is everything
+### Getting Started
 
-    * Make gradual changes in building a well rounded safety program.
+The most important thing you can do is to strive for improvement, to have better safety than not only year's past, but also previous events and days.  For example, if some of your team members forgot safety goggles at an event, make *sure* they have them before leaving for the next event.
 
-* Start by making a PPT on basic rules for the school environment and specific machinery
+Some other things that may help educate and quickly bring people up to speed (allowing you to move faster on the more serious training) may include:
 
-    * Collaborate with captains from other subteams and pit crew members to show new members the works of tools and precautions needed to know
+* Powerpoint on existing tools.
 
-    * Make safety quizzes that require 100% passing to demonstrate understanding
+* Safety quiz to prove knowledge learned.
 
-    * Make safety contracts and rules and make sure both the parent and the student signs it (if the student/parent does not sign it, the student should not be able to participate--- check with mentor to approve of this notion)
+* Training with mentor or older members of team to use said tools.
 
-    * Keep records (e.g. injury records), but do not show PHI to FRC judges; it is private info.
+* Make safety contracts and rules and make sure both the parent and the student signs it.
 
-* Over time, start showing judges your comparison from a few years after creating a concrete program to the hectic whirlwind of what the club was like before.
+	* Please note that this type of semi-drastic action often requires the approval of your head mentor (and usually school district.)  Check with them before implementing such a system.
 
-    * Progress is important.
+### Improvement
 
-* As a safety captain, familiarize yourself with some of the tools used. That way, you can point out hazards to members and help others.
+As you approach the point where you consider your team to be decently safe, consider where things may fall through the cracks and work to patch those. (Eg: What if you as Safety Captain aren't there for an event.)
+
+In addition, Safety Captains have a significant amount of responsibility, dealing with the safety of *everyone* on the team.  In theory, a Safety Captain could tell their President or Driver they can't go on the field (likely a safety inspector would catch them first though.)
+
+Some middle-of-the-road difficulty things you may wish to approach might be:
 
 * *It may not seem like it, but you hold a lot of responsibility for the members and mentors of the team.*
 
     * Their safety may/may not fall back on you in some circumstances.
 
-* DO NOT try intimidating students/or using scare tactics; it won’t work
+* Don't teach safety via shock, fear, and intimidation will seldom work.  *Do not make them fear the tools they need to use.*
 
     * Teaching and making sure they understand what they’re doing and what they put themselves at risks for is key.
 
-* Get to know every person, even if their subteam is not in build or electronics.
+* Get to know every person, even if their subteam is not directly related to robot safety.
 
-    * Some people hide their injuries without telling the captain (big mistake!), you need to make sure you are able to catch when they do it and tell them not do it again.
+    * Some people hide their injuries without telling the Safety Captain. Make sure that they won't hide it, for both their personal health and safety, and for the image of the team.
 
 * Make your own team Safety Rulebook, specific with your school’s rules and regulations (if you are part of a school)
 
-* Teach members responsibility by having the team purchase new safety glasses for each new member (you will have to discuss this with your mentor/advisor) and telling them that the team will not buy new pairs if they are damaged or lost
+* Teach members responsibility by having the team purchase new safety glasses for each new member (you will have to discuss this with your mentor/advisor) and telling them that the team will not buy new pairs if they are damaged or lost.
 
-    * If the safety glasses do not have a side and upper (distance covering space from eyes to glasses) guard, they are NOT safety glasses.
+	* If the safety glasses do not have a side and upper (distance covering space from eyes to glasses) guard, they are NOT safety glasses.
 
-    * Prescription glasses used in daily life are NOT safety glasses
+    * Prescription glasses used in daily life are NOT safety glasses.
+
+### Event Safety
+
+The most important item you can have at an event other than your robot are your safety goggles.  Without them, you can't enter the pits, the field, or travel in certain parts of the event.  At World Championships in fact, Google paid for *all* visitors to have safety goggles so they could safely tour the pits.
 
 * Make sure to make clear distinctions between safety at school vs. at the arena
 
@@ -483,11 +491,13 @@ Finally, treating your sponsors properly, as organizations that support you, and
 
     * Also helps to give it to safety judges when they come around
 
-* Have 2 Safety Co-Captains, that way both people can rotate being in the pits during competition and one person won’t be dead tired.
+Having 2 Safety Co-Captains can be incredibly helpful, that way both people can rotate being in the pits during competition and one person won’t be dead tired.  The way that 1257 implemented it in years past was to have one in the pits, one in the stands to make sure everything is good in both settings.
 
-    * One in the Pits, one in the stands to make sure everything is good in both settings.
+* Have 2 first aid kits, one in the pits and one in the stands with a Safety Co-Captain or person who would always be in the stands.
 
-* Have 2 first aid kits, one in the pits and one in the stands with a co-capt
+### Things You Might Help With
+
+As most of the time of a Safety Captain is spent in the pits, you may be able to integrate safety successfully into their procedure.  Some suggestions might be:
 
 * Help out with the robots pre-match checklist.
 
@@ -497,27 +507,26 @@ Finally, treating your sponsors properly, as organizations that support you, and
 
 * Make a binder for all types of documentation.
 
-    * Have the FRC Safety Manual
+    * Have the *FIRST* Robotics Competition Safety Manual.
 
-    * Sort out all types of documentation by year or by type of document
+    * Sort out all types of documentation by year or by type of document.
 
         * E.g. - Injury reports or Safety contracts
 
-* Bring a trash can to competition
+* Bring a metal trash can to competition.
 
-    * Metal, hopefully.
+    * Though this may seem strange, a steel trash can could be used as both a regular old trash bin, a container for a battery fire, or even just storage.  The object is multifaceted and may save both people and expensive materials (in case of charger & battery fire.)
 
-    * Multifaceted / Many Uses.
+* Before every competition, discuss an emergency plan with mentors and students and teach a place to meet in case of emergency.
 
-* Before every competition, discuss an emergency plan and place to meet in case of emergency
+* Get a CPR / First Aid Certification.
 
-* Be CPR/First Aid certified
+    * Not only is it an incredibly useful thing to be (just in case), but it also looks good to Judges and other officials.
 
-    * Not only is it an incredibly useful thing to be, but it also looks good to Judges and other officials.
-
-* Have machinery checks of the machines used the most (ask build captain about this) to check for damages and possibly brokenness
+* Have machinery checks of the machines used the most (ask the head of your Build subteam about this) to check for damages and possible failures of safety subsystems. (Eg: ESTOP.)
 
     * Do this especially during build season (it would be horrible to use a broken machine unexpectedly and get hurt)
+
 
 ## Design
 
