@@ -530,7 +530,7 @@ As most of the time of a Safety Captain is spent in the pits, you may be able to
 
 ## Design
 
-**Unification of Brand**
+### Unification of Brand
 
 A team's icon is the way they can stay memorable in their competitior's eyes in addition to the judge's for the Imagery Award.  However, it's not just awards that are important.  How you, your team, and your workspace / pit look can vastly effect how another team views you.
 
@@ -548,7 +548,7 @@ Some things to include in your style guide may include:
 
 Regardless of how you or your team decie to go in terms of vision, the most important thing you can do is have consistency.  A good document on the subject is by 1538, The Holy Cows.  [Read Here](http://www.team1538.com/downloads/2015BrandStandards.pdf)
 
-**Document Style Guides**
+### Document Style Guides**
 
 Though traditionally, documents are typically the work of a business or business-like subteam, the way they appear can be a crucial role in how your sponsors view you.  Standardize on a team font, one that's *readable*, that you'll use for all of your letters leaving.  Another thing to consider would be team letterhead and footing.  Many businesses have official stationary for official business, and having such can only improve your reputation as an organization.
 
@@ -693,7 +693,7 @@ No matter the type, scale, or location of event, follow the rules of it to the l
 
 * World Championship (FRC CMP)
 
-    * As high stress as it gets, be prepared.  High-strung people **everywhere.**
+    * As high stress as it gets, be prepared.  High-strung people *everywhere.*
 
     * Pack EVERYTHING you *need*, not everything you *want*.
 
@@ -765,7 +765,7 @@ No matter the type, scale, or location of event, follow the rules of it to the l
 
 ## Karthik’s Lectures
 
-Karthik is a successful lecturer, former mentor of team 1114 Simbotics, and the head of the VEX Game Design Committee.  He’s lectured year after year at CMP in St. Louis talking about the various successful components of an FRC team.  He covers everything from game analysis to scouting and strategy (including alliance selection).  Watching at least one of the videos below is a good idea in general.
+Karthik is a successful lecturer, former mentor of team 1114 Simbotics, and the head of the VEX Game Design Committee.  He’s lectured year after year at Championships in St. Louis talking about the various successful components of an FRC team.  He covers everything from game analysis to scouting and strategy (including alliance selection).  His work with Simbotics is often considered the pinacle of FRC achievment and tact.
 
 * The Subtle Secret To Success TEDxUTSC
 
@@ -815,9 +815,11 @@ Jack Kamen was the father of Dean, founder of FIRST.  He was a comic book illust
 
 Certain tools throughout a build season are both essential and easy to lose.  A quick list use useful ones:
 
-* Screwdriver Set (two of ‘em, for when you have two subteams)
+* Screwdriver Set (two of them, especially for when you have two robot-related subteams)
 
-* Wrench Set (metric & US, though you really should only use one when building a robot.  STANDARDIZE!)
+* Wrench Set (metric & US, though you really should only use one when building a robot.)
+
+    * Standardizing on all of your fasteners can greatly accelerate your workflow, as well as easily tell other teams what you do / don't have should they need to borrow something.
 
     * Mark your most commonly use wrench off with tape to speed up pit repairs.
 
@@ -827,9 +829,7 @@ Certain tools throughout a build season are both essential and easy to lose.  A 
 
     * A good sharp pair is essential for trimming zip-ties, wires, and a whole load of other things.  If you have a dull pair of cutters, it can stop the whole rhythm of the robot checklist in the pit, which is not a nice thing to have when you may or may not have
 
-    * Many posts on Chief Delphi recommend this pair:
-
-        * [https://www.sparkfun.com/products/11952](https://www.sparkfun.com/products/11952)
+    * Many posts on Chief Delphi recommend this pair: [https://www.sparkfun.com/products/11952](https://www.sparkfun.com/products/11952)
 
 * Multitool
 
@@ -840,9 +840,12 @@ Certain tools throughout a build season are both essential and easy to lose.  A 
     * [http://amzn.com/B00BC39YFQ](http://amzn.com/B00BC39YFQ)
 
 * * *
+
 ## Chairman's Award
 
-* The Chairman's award is awarded to a team that best exemplifies the goals and mission of *FIRST*.  It shouldn't be something you go for because it sounds prestegious, but rather something a team should work for if a majority of their actions both on and off season reflect the *FIRST* mission.
+* The Chairman's award is awarded to a team that best exemplifies the goals and mission of *FIRST*.  It shouldn't be something you go for because it sounds prestegious, but rather something a team should work for if a majority of their actions both on and off season reflect the *FIRST* mission.  Few teams have ever one, and even fewer have won it multiple times.  What exactly a Chairman's team *is* is highly debated, as well as the secret sauce of the competition to an extent.  Not what a team should be, being gracious, professional, and one who shares their love of Science, Technology, Engineering and Mathematics with *all*, but rather *how* you get there.
+
+In short, Chairman's is about the journey to *and* the destination, rather than *just* the destination that all teams know.
 
 [Chairman's Resources](http://www.firstinspires.org/node/4876)
 
