@@ -924,7 +924,7 @@ TC: Many things, least of which is actual skill driving the robot.  We have a la
 
 7. The stress on the drive team is hard to simulate outside competition.
 
-8. As a new team try to pick a few things to well in the game. If you have time to add in new functionality after mastering that…. Nah, you won’t have time.
+8. As a new team try to pick a few things to do well in the game. If you have time to add in new functionality after mastering that…. Nah, you won’t have time.
 
 9. Getting sponsors is difficult. The average manager at a car dealership isn’t as excited about robotics as a high school student. You need to have a few kids that are able to sell your team, your vision, and FIRST in general.
 
