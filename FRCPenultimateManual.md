@@ -285,10 +285,15 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 * Before starting on a picklist, discuss strategies for playoffs.
 
     * What would the composition of your ideal alliance look like? Your options include:
+    
 	1 - Triple offense (2016 Carver Division, Alliance #2)
+	
 	2 - Two offense and one defense (2016 Tesla Division, Alliance #1)
+	
 	3 - Two offense and one feeder (2016 Hopper Division, Alliance #1)
+	
 	4 - Offense, a feeder, and defense (2016 Waterloo Regional, Alliance #2)
+	
 	5 - Offense and two feeders/defense (2012 Newton Division, Alliance #2)
 
 	* Generally, your choice is between a, b, and c. Deciding between these three options requires examining which will contribute the most to the point margin between yourself and your alliance. Often, a defender can deny their opponents more points than an offense third pick will be able to score. Many times, two offense robots will be more efficient if one robot focuses on feeding game pieces to the other, who scores them, rather than havng both robots acquire and score game pieces themselves.
