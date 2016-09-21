@@ -621,7 +621,7 @@ Few teams exist on this scale, and if they do exist, they have vast amounts of m
 Some examples include:
 
 * Hosting an Onseason Event ([303](https://www.thebluealliance.com/event/2016njbri))
-* Hosting an Offseason Event ([1923](www.midknightmayhem.org))
+* Hosting an Offseason Event ([1923](https://www.midknightmayhem.org))
 * Founding new FRC teams elsewhere.
 * Founding and hosting FTC teams.
 
@@ -630,17 +630,27 @@ Example team size: 80+ Members, 8+ Mentors
 
 ## Mentors
 
+First and foremost, the job of a mentor is to *guide* the students.  If you are attempting to help your students, understand there is a certain way that many team mentors approach it.  The job of a mentor is to guide a student or team to the choices before them, but not to influence them unless needed.  Much in the way you can lead a kid to a library but can't force them to read, the same principle applies.  The only reasonable time a mentor should intervene in the course of student events is if the choice about to be made isn't recoverable.
+
+On that point, however, a mentor is also a source of inspiration.  You have the vastly enormous responsibility to inspire and show your students what they're capable of and what *they* might one day be capable of.  The weight of your actions cannot be understated.  Try your best to be a role model at all times and on all fronts, but understand that you can't do *everything*.  A failure of the team is not a failure in your ability, but a chance to do better moving forward.  
+
+---
+
+It is possible to commit no mistakes and still lose. That is not a weakness; that is life. - Jean-Luc Picard
+
+---
+
 * There’s no such thing as a bad idea, consider everything.
 
 * Planning and note-taking can save you, write stuff down!
 
-* Not all other mentors are GP, you must be in the face of all adversary.
+* Not all mentors are GP, you must be in the face of all adversary.
 
 * Maintaining a flow of information from year to year is useful.
 
     * Writing down everything the team did well, and how they did it at the end of each season might help.
 
-* You are a student as well.  Never stop learning.
+* You are a student as well, learning the ins and outs of the *FIRST* Robotics Competition.
 
 * Every opportunity is a learning one.  Never pass it up.
 
