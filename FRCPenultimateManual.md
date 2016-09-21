@@ -431,7 +431,7 @@ Finally, treating your sponsors properly, as organizations that support you, and
     
 **Nonprofit Status**
 
-If your team is attempting to pursue grants or finances, a signficant amount of them are bound to *only* 501(c)3 type nonprofits.  Though *FIRST* is a registered nonprofit, your *team* does not until you register much in the same way as some other teams have.  some example teams who have nonprofits, or use nonprofits for passthrough donations to the team include:
+If your team is attempting to pursue grants or finances, a signficant amount of them are bound to *only* 501(c)3 type nonprofits.  Though *FIRST* is a registered nonprofit, your *team* is not until you register much in the same way as some other teams have with the IRS (or relevant international equivalent).  some example teams who have nonprofits, or use nonprofits for passthrough donations to the team include:
 
 * 1257
 * 303
