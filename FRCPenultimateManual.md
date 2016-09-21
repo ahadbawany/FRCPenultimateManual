@@ -102,7 +102,7 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 
 * **Set clear goals and make sure you have a plan outlined.**
 
-* **Keep the goals simple, brief and achievable.**
+    * **Keep the goals simple, brief and achievable.**
 
 * **Set a timeline and/or deadlines. Adhere to these.**
 
@@ -162,11 +162,11 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 
 ## Programming
 
-* Don’t over complicate your code.
+* Don’t overcomplicate your code.
 
 * Clean code is good, functional code is better.
 
-* Changing the code during competitions is do-able, but risky, so try to avoid it.
+* Changing the code during competitions is do-able, but risky, so try to avoid it.  Keeping your code with you is also important, just in case you need to compile for a RIO spare.
 
     * Try to test it a practice field if possible
 
@@ -188,7 +188,7 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 
 * Teambuilding and culture of a drive team is *very* important.  Try to have some fun when you're not stressing out over the game at hand.
 
-    * For example, 1257's 2016 drive team would play Super Meat Boy to practice reaction timing and Keep Talking and Nobody Explodes to practice their communication skills.  Though interruptive during meetings, effects were found to be clearly noticable.
+    * For example, 1257's 2016 drive team would play [Super Meat Boy](http://supermeatboy.com/) to practice reaction timing and [Keep Talking and Nobody Explodes](http://www.keeptalkinggame.com/) to practice their communication skills.  Though interruptive during meetings, effects were found to be clearly noticable.
 
 * Reference: [254’s Guide](#keys-to-a-successful-drive-team-254-and-travis-covington)
 
@@ -285,11 +285,11 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 * Before starting on a picklist, discuss strategies for playoffs.
 
     * What would the composition of your ideal alliance look like? Your options include:
-	1. Triple offense (2016 Carver Division, Alliance #2)
-	2. Two offense and one defense (2016 Tesla Division, Alliance #1)
-	3. Two offense and one feeder (2016 Hopper Division, Alliance #1)
-	4. Offense, a feeder, and defense (2016 Waterloo Regional, Alliance #2)
-	5. Offense and two feeders/defense (2012 Newton Division, Alliance #2)
+	1 - Triple offense (2016 Carver Division, Alliance #2)
+	2 - Two offense and one defense (2016 Tesla Division, Alliance #1)
+	3 - Two offense and one feeder (2016 Hopper Division, Alliance #1)
+	4 - Offense, a feeder, and defense (2016 Waterloo Regional, Alliance #2)
+	5 - Offense and two feeders/defense (2012 Newton Division, Alliance #2)
 
 	* Generally, your choice is between a, b, and c. Deciding between these three options requires examining which will contribute the most to the point margin between yourself and your alliance. Often, a defender can deny their opponents more points than an offense third pick will be able to score. Many times, two offense robots will be more efficient if one robot focuses on feeding game pieces to the other, who scores them, rather than havng both robots acquire and score game pieces themselves.
 
@@ -297,7 +297,7 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 
 	* Option e is generally unwise, if not downright illegal (as it was illegal to have two opposing robots in a courtyard in 2016). However, this does not mean it should never be considered. On rare occasions, one robot scoring game pieces *can* outscore an opposing alliance. In the example listed, the #2 alliance on Newton in 2012 employed this strategy because 1717, the captain, was an incredibly fast and accurate scorer. The alliance had the other two robots (469 and 2471) play on the opposite side of the field, acquiring game pieces and shooting them to other side of the field for 1717 to score.
 
-    * A good guiding question is "how many points would our wekeast robot be able to score, and how does that compare to how many points they can take from our opponent?"
+    * A good guiding question is "How many points would our wekeast robot be able to score, and how does that compare to how many points they can take from our opponent?"
 
     * What other strategies might your alliance have to face?
 
@@ -307,7 +307,7 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 
     * Choose a strategy, then *design your alliance around your strategy. *Have a plan to win and choose robots that will help you execute your plan.
 
-* Identify the teams that maximize your chance of winning
+* Identify the teams that maximize your chance of winning.
 
     * Don’t simply pick the highest scoring team available, though that is often what maximizes your chance of winning
 
@@ -423,7 +423,28 @@ Finally, treating your sponsors properly, as organizations that support you, and
     * [Writing A Business Plan](#writing-a-business-plan)
 
     * Business plans shouldn’t just cover the financial details of the team, they should be a guiding document for all team operations and organization.
+    
+**Nonprofit Status**
 
+If your team is attempting to pursue grants or finances, a signficant amount of them are bound to *only* 501(c)3 type nonprofits.  Though *FIRST* is a registered nonprofit, your *team* does not until you register much in the same way as some other teams have.  some example teams who have nonprofits, or use nonprofits for passthrough donations to the team include:
+
+* 1257
+* 303
+* 1923 (in a sense)
+
+Doing so requires people to run the nonprofit, being adults, and understanding the complexity thereof.  Should your team be attempting to become a nonprofit, it is *highly* reccomended that you do some research and ask for help with other local teams that have gone through the process.  That way you're not likely to make the same mistakes.
+
+Benefits:
+
+* More Donations
+* Tax Exemption
+* Certain Technology Perks (Slack is cheap / free for example.)
+
+Downsides:
+
+* Adults needed to run it.
+* More regulatory requirements.
+* Need financial backing and tax advice at times.
 
 ## Safety
 
@@ -433,7 +454,7 @@ Make sure people recognize that and not take it as a joke.  The safety of the st
 
 Due to the incredibly-specific nature of *FIRST* Robotics Safety, this section will focus on a set of suggestions as to what makes a team safe, as well as what may be considered a "Road" to the Safety Award.
 
-### Getting Started
+**Getting Started**
 
 The most important thing you can do is to strive for improvement, to have better safety than not only year's past, but also previous events and days.  For example, if some of your team members forgot safety goggles at an event, make *sure* they have them before leaving for the next event.
 
@@ -449,7 +470,7 @@ Some other things that may help educate and quickly bring people up to speed (al
 
 	* Please note that this type of semi-drastic action often requires the approval of your head mentor (and usually school district.)  Check with them before implementing such a system.
 
-### Improvement
+**Improvement**
 
 As you approach the point where you consider your team to be decently safe, consider where things may fall through the cracks and work to patch those. (Eg: What if you as Safety Captain aren't there for an event.)
 
@@ -477,7 +498,7 @@ Some middle-of-the-road difficulty things you may wish to approach might be:
 
     * Prescription glasses used in daily life are NOT safety glasses.
 
-### Event Safety
+**Event Safety**
 
 The most important item you can have at an event other than your robot are your safety goggles.  Without them, you can't enter the pits, the field, or travel in certain parts of the event.  At World Championships in fact, Google paid for *all* visitors to have safety goggles so they could safely tour the pits.
 
@@ -495,7 +516,7 @@ Having 2 Safety Co-Captains can be incredibly helpful, that way both people can 
 
 * Have 2 first aid kits, one in the pits and one in the stands with a Safety Co-Captain or person who would always be in the stands.
 
-### Things You Might Help With
+**Things You Might Help With**
 
 As most of the time of a Safety Captain is spent in the pits, you may be able to integrate safety successfully into their procedure.  Some suggestions might be:
 
@@ -530,7 +551,7 @@ As most of the time of a Safety Captain is spent in the pits, you may be able to
 
 ## Design
 
-### Unification of Brand
+**Unification of Brand**
 
 A team's icon is the way they can stay memorable in their competitior's eyes in addition to the judge's for the Imagery Award.  However, it's not just awards that are important.  How you, your team, and your workspace / pit look can vastly effect how another team views you.
 
@@ -548,11 +569,11 @@ Some things to include in your style guide may include:
 
 Regardless of how you or your team decie to go in terms of vision, the most important thing you can do is have consistency.  A good document on the subject is by 1538, The Holy Cows.  [Read Here](http://www.team1538.com/downloads/2015BrandStandards.pdf)
 
-### Document Style Guides**
+**Document Style Guides**
 
 Though traditionally, documents are typically the work of a business or business-like subteam, the way they appear can be a crucial role in how your sponsors view you.  Standardize on a team font, one that's *readable*, that you'll use for all of your letters leaving.  Another thing to consider would be team letterhead and footing.  Many businesses have official stationary for official business, and having such can only improve your reputation as an organization.
 
-## Outreach
+**Outreach**
 
 Outreach in *FIRST*, and more specifically, in FRC, is the act of demonstrating either your robot, or the goodwill of a team to your community.  It can range in anything from demoing robots at a science fair for the FLL kids, to volunteering at a food bank to support your town.  A fantastic example of outreach as of late would be the [1418 Lego Robotics Camp](https://www.facebook.com/robotics1418/posts/1550101621682144), where they gave kids the opportunity to run that year's FLL game, as well as the chance to drive 1418's 2016 robot.
 
@@ -560,7 +581,7 @@ First and foremost, outreach is something that all teams don't have to do.  Howe
 
 Getting outreach coordinated is a complicated thing, and often requires the head of a [leader](#officers--leadership).  Being able to coherently and efficiently speak about the team reflects better on both you as an individual, and you collectively as a team.  As a result, you may gain (business)[#business] contacts, and potential sponsors, as well as prospective new recruits for your team.
 
-### Small Scale
+**Small Scale**
 
 Outreach on a small scale can be something as simple as just demoing your robot.  With one or two people, you can exhibit your robot in a high-traffic area and show off the robot, pique interest in both STEM *and* your team, and potentially raise some additional funds via a tip jar.
 
@@ -576,7 +597,7 @@ Example team size: 2 - 25 Members, 1-2 Mentors
 
 One thing to note is, having business cards and media to distribute may accidentally gain your team a sponsorship.  Local business owners out and about may see a group of individuals who know what they're doing, and may be interested in supporting "local students".
 
-### Medium Scale
+**Medium Scale**
 
 Outreach on the medium scale can be a rather complicated thing, often requiring a siginificant amount of prior planning.  You can easily raise awareness, also likely helping your team when reaching for the "Model Team" category of awards.
 
@@ -588,7 +609,7 @@ Some examples may include:
 
 Example team size: 26-80 Members, 2-8 Mentors
 
-### Large Scale
+**Large Scale**
 
 Few teams exist on this scale, and if they do exist, they have vast amounts of manpower.  They can realistically perform any task they set their minds (and computers) to.
 
@@ -1068,7 +1089,7 @@ Just note that it can also be host to the likes of these:
 
 # Credits
 
-	Without the dedication and hard work of many people, this document would not have been possible.  Special thanks to:
+    Without the dedication and hard work of many people, this document would not have been possible.  Special thanks to:
 
 **Students**, for being *that* type of crazy.
 
@@ -1112,7 +1133,7 @@ And countless others!
 
 **Thank you!**
 
-	Tim Flynn, 1257 (2016 Member & Future Mentor), 1228 (Future Mentor)
+    Tim Flynn, 1257 (2016 Member & Future Mentor), 1228 (Future Mentor)
 
 Suggestions and Revisions: "tjf" on Chief Delphi.
 
