@@ -792,7 +792,7 @@ No matter the type, scale, or location of event, follow the rules of it to the l
 * * *
 
 
-*While Grace will carry you through good times and victory, Professionalism will carry you through hard times and defeat. - *[Venkatesh on Chief Delphi](https://www.chiefdelphi.com/forums/showthread.php?postid=253746#post253746)
+*While Grace will carry you through good times and victory, Professionalism will carry you through hard times and defeat.* - [Venkatesh on Chief Delphi](https://www.chiefdelphi.com/forums/showthread.php?postid=253746#post253746)
 
 * * *
 
