@@ -1,5 +1,5 @@
 
-# Team Divisions
+# The FRC Penultimate Manual
 
 ### A Foreword of Sorts
 
@@ -384,7 +384,7 @@ Keeping track of your sponsors and keeping in contact is incredibly important.  
 
 Knowing the amount of money your team will need for a season allows you as an organization to set goals as to how much they'll need, and in what rate.  For example, a Veteran Mid-Atlantic Robotics team will spend $5,000 on district registration for two events, and $4,000 on District Championship.  Knowing this in advance allows your team to have fundraisers, bake sakes, demos, and other financially beneficial events knowing well how much more you need.
 
-**Fundrasiers**
+**Fundraisers**
 
 Should your team have the advantage of a surplus of students willing to help the team, but are unable to financially, fundraisers may be a way to bring in some money to help offset costs.  Some ideas for fundraisers include:
 
