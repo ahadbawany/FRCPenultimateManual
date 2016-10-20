@@ -56,6 +56,8 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 
 * * *
 
+#Team Divisions
+
 ## Everyone On The Team
 
 * Contribute to the team as much as you can, even though it might be something small.
